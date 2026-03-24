@@ -1,0 +1,56 @@
+# ======================
+# Mendix
+# ======================
+
+# Deployment (build / runtime)
+deployment/run/
+deployment/model/
+deployment/data/
+deployment/web/
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.bak
+
+# ======================
+# OS
+# ======================
+
+.DS_Store
+Thumbs.db
+
+# ======================
+# IDEs
+# ======================
+
+.vscode/
+.idea/
+
+# ======================
+# Node (se usar no futuro)
+# ======================
+
+node_modules/
+
+# ======================
+# Python (caso use scripts)
+# ======================
+
+__pycache__/
+*.pyc
+
+# ======================
+# Environment / secrets
+# ======================
+
+.env
+.env.local
+
+# ======================
+# Git
+# ======================
+
+*.orig

@@ -2952,6 +2952,8190 @@
   content: "\ea6d";
 }
 
+@font-face {
+  font-family: "FontAwesomeIcons$FontAwesome_Brands";
+  src: url("./fonts/FontAwesomeIcons$FontAwesome_Brands.ttf") format("truetype");
+}
+.FontAwesomeIcons_FontAwesome_Brands {
+  display: inline-block;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  font-family: "FontAwesomeIcons$FontAwesome_Brands";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-wordpress::before {
+  content: "\e900";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-wordpress-simple::before {
+  content: "\e901";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-wpbeginner::before {
+  content: "\e902";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-wpexplorer::before {
+  content: "\e903";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-wpforms::before {
+  content: "\e904";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-wpressr::before {
+  content: "\e905";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-xbox::before {
+  content: "\e906";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-xing::before {
+  content: "\e907";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-x-twitter::before {
+  content: "\e908";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-yahoo::before {
+  content: "\e909";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-yammer::before {
+  content: "\e90a";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-yandex::before {
+  content: "\e90b";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-yandex-international::before {
+  content: "\e90c";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-yarn::before {
+  content: "\e90d";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-y-combinator::before {
+  content: "\e90e";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-yelp::before {
+  content: "\e90f";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-yoast::before {
+  content: "\e910";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-youtube::before {
+  content: "\e911";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-zhihu::before {
+  content: "\e912";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-themeco::before {
+  content: "\e913";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-themeisle::before {
+  content: "\e914";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-the-red-yeti::before {
+  content: "\e915";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-think-peaks::before {
+  content: "\e916";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-threads::before {
+  content: "\e917";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-tiktok::before {
+  content: "\e918";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-trade-federation::before {
+  content: "\e919";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-trello::before {
+  content: "\e91a";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-tumblr::before {
+  content: "\e91b";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-twitch::before {
+  content: "\e91c";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-twitter::before {
+  content: "\e91d";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-typo3::before {
+  content: "\e91e";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-uber::before {
+  content: "\e91f";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-ubuntu::before {
+  content: "\e920";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-uikit::before {
+  content: "\e921";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-umbraco::before {
+  content: "\e922";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-uncharted::before {
+  content: "\e923";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-uniregistry::before {
+  content: "\e924";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-unity::before {
+  content: "\e925";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-unsplash::before {
+  content: "\e926";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-untappd::before {
+  content: "\e927";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-ups::before {
+  content: "\e928";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-upwork::before {
+  content: "\e929";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-usb::before {
+  content: "\e92a";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-usps::before {
+  content: "\e92b";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-ussunnah::before {
+  content: "\e92c";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-vaadin::before {
+  content: "\e92d";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-viacoin::before {
+  content: "\e92e";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-viadeo::before {
+  content: "\e92f";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-viber::before {
+  content: "\e930";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-vimeo::before {
+  content: "\e931";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-vimeo-v::before {
+  content: "\e932";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-vine::before {
+  content: "\e933";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-vk::before {
+  content: "\e934";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-vnv::before {
+  content: "\e935";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-vuejs::before {
+  content: "\e936";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-watchman-monitoring::before {
+  content: "\e937";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-waze::before {
+  content: "\e938";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-webflow::before {
+  content: "\e939";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-weebly::before {
+  content: "\e93a";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-weibo::before {
+  content: "\e93b";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-weixin::before {
+  content: "\e93c";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-whatsapp::before {
+  content: "\e93d";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-whmcs::before {
+  content: "\e93e";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-wikipedia-w::before {
+  content: "\e93f";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-windows::before {
+  content: "\e940";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-wirsindhandwerk::before {
+  content: "\e941";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-wix::before {
+  content: "\e942";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-wizards-of-the-coast::before {
+  content: "\e943";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-wodu::before {
+  content: "\e944";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-wolf-pack-battalion::before {
+  content: "\e945";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-square-facebook::before {
+  content: "\e946";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-square-font-awesome::before {
+  content: "\e947";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-square-font-awesome-stroke::before {
+  content: "\e948";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-square-git::before {
+  content: "\e949";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-square-github::before {
+  content: "\e94a";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-square-gitlab::before {
+  content: "\e94b";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-square-google-plus::before {
+  content: "\e94c";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-square-hacker-news::before {
+  content: "\e94d";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-square-instagram::before {
+  content: "\e94e";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-square-js::before {
+  content: "\e94f";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-square-lastfm::before {
+  content: "\e950";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-square-letterboxd::before {
+  content: "\e951";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-square-odnoklassniki::before {
+  content: "\e952";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-square-pied-piper::before {
+  content: "\e953";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-square-pinterest::before {
+  content: "\e954";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-square-reddit::before {
+  content: "\e955";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-square-snapchat::before {
+  content: "\e956";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-squarespace::before {
+  content: "\e957";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-square-steam::before {
+  content: "\e958";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-square-threads::before {
+  content: "\e959";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-square-tumblr::before {
+  content: "\e95a";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-square-twitter::before {
+  content: "\e95b";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-square-viadeo::before {
+  content: "\e95c";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-square-vimeo::before {
+  content: "\e95d";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-square-whatsapp::before {
+  content: "\e95e";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-square-xing::before {
+  content: "\e95f";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-square-x-twitter::before {
+  content: "\e960";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-square-youtube::before {
+  content: "\e961";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-stack-exchange::before {
+  content: "\e962";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-stack-overflow::before {
+  content: "\e963";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-stackpath::before {
+  content: "\e964";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-staylinked::before {
+  content: "\e965";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-steam::before {
+  content: "\e966";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-steam-symbol::before {
+  content: "\e967";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-sticker-mule::before {
+  content: "\e968";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-strava::before {
+  content: "\e969";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-stripe::before {
+  content: "\e96a";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-stripe-s::before {
+  content: "\e96b";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-stubber::before {
+  content: "\e96c";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-studiovinari::before {
+  content: "\e96d";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-stumbleupon::before {
+  content: "\e96e";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-stumbleupon-circle::before {
+  content: "\e96f";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-superpowers::before {
+  content: "\e970";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-supple::before {
+  content: "\e971";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-suse::before {
+  content: "\e972";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-swift::before {
+  content: "\e973";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-symfony::before {
+  content: "\e974";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-teamspeak::before {
+  content: "\e975";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-telegram::before {
+  content: "\e976";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-tencent-weibo::before {
+  content: "\e977";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-ravelry::before {
+  content: "\e978";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-react::before {
+  content: "\e979";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-reacteurope::before {
+  content: "\e97a";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-readme::before {
+  content: "\e97b";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-rebel::before {
+  content: "\e97c";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-reddit::before {
+  content: "\e97d";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-reddit-alien::before {
+  content: "\e97e";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-redhat::before {
+  content: "\e97f";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-red-river::before {
+  content: "\e980";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-renren::before {
+  content: "\e981";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-replyd::before {
+  content: "\e982";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-researchgate::before {
+  content: "\e983";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-resolving::before {
+  content: "\e984";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-rev::before {
+  content: "\e985";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-rocketchat::before {
+  content: "\e986";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-rockrms::before {
+  content: "\e987";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-rust::before {
+  content: "\e988";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-safari::before {
+  content: "\e989";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-salesforce::before {
+  content: "\e98a";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-sass::before {
+  content: "\e98b";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-schlix::before {
+  content: "\e98c";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-screenpal::before {
+  content: "\e98d";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-scribd::before {
+  content: "\e98e";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-searchengin::before {
+  content: "\e98f";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-sellcast::before {
+  content: "\e990";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-sellsy::before {
+  content: "\e991";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-servicestack::before {
+  content: "\e992";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-shirtsinbulk::before {
+  content: "\e993";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-shoelace::before {
+  content: "\e994";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-shopify::before {
+  content: "\e995";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-shopware::before {
+  content: "\e996";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-signal-messenger::before {
+  content: "\e997";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-simplybuilt::before {
+  content: "\e998";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-sistrix::before {
+  content: "\e999";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-sith::before {
+  content: "\e99a";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-sitrox::before {
+  content: "\e99b";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-sketch::before {
+  content: "\e99c";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-skyatlas::before {
+  content: "\e99d";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-skype::before {
+  content: "\e99e";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-slack::before {
+  content: "\e99f";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-slideshare::before {
+  content: "\e9a0";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-snapchat::before {
+  content: "\e9a1";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-soundcloud::before {
+  content: "\e9a2";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-sourcetree::before {
+  content: "\e9a3";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-space-awesome::before {
+  content: "\e9a4";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-speakap::before {
+  content: "\e9a5";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-speaker-deck::before {
+  content: "\e9a6";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-spotify::before {
+  content: "\e9a7";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-square-behance::before {
+  content: "\e9a8";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-square-dribbble::before {
+  content: "\e9a9";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-monero::before {
+  content: "\e9aa";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-napster::before {
+  content: "\e9ab";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-neos::before {
+  content: "\e9ac";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-nfc-directional::before {
+  content: "\e9ad";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-nfc-symbol::before {
+  content: "\e9ae";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-nimblr::before {
+  content: "\e9af";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-node::before {
+  content: "\e9b0";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-node-js::before {
+  content: "\e9b1";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-npm::before {
+  content: "\e9b2";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-ns8::before {
+  content: "\e9b3";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-nutritionix::before {
+  content: "\e9b4";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-octopus-deploy::before {
+  content: "\e9b5";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-odnoklassniki::before {
+  content: "\e9b6";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-odysee::before {
+  content: "\e9b7";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-old-republic::before {
+  content: "\e9b8";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-opencart::before {
+  content: "\e9b9";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-openid::before {
+  content: "\e9ba";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-opensuse::before {
+  content: "\e9bb";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-opera::before {
+  content: "\e9bc";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-optin-monster::before {
+  content: "\e9bd";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-orcid::before {
+  content: "\e9be";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-osi::before {
+  content: "\e9bf";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-padlet::before {
+  content: "\e9c0";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-page4::before {
+  content: "\e9c1";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-pagelines::before {
+  content: "\e9c2";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-palfed::before {
+  content: "\e9c3";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-patreon::before {
+  content: "\e9c4";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-paypal::before {
+  content: "\e9c5";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-perbyte::before {
+  content: "\e9c6";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-periscope::before {
+  content: "\e9c7";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-phabricator::before {
+  content: "\e9c8";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-phoenix-framework::before {
+  content: "\e9c9";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-phoenix-squadron::before {
+  content: "\e9ca";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-php::before {
+  content: "\e9cb";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-pied-piper::before {
+  content: "\e9cc";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-pied-piper-alt::before {
+  content: "\e9cd";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-pied-piper-hat::before {
+  content: "\e9ce";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-pied-piper-pp::before {
+  content: "\e9cf";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-pinterest::before {
+  content: "\e9d0";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-pinterest-p::before {
+  content: "\e9d1";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-pix::before {
+  content: "\e9d2";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-pixiv::before {
+  content: "\e9d3";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-playstation::before {
+  content: "\e9d4";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-product-hunt::before {
+  content: "\e9d5";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-pushed::before {
+  content: "\e9d6";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-python::before {
+  content: "\e9d7";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-qq::before {
+  content: "\e9d8";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-quinscape::before {
+  content: "\e9d9";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-quora::before {
+  content: "\e9da";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-raspberry-pi::before {
+  content: "\e9db";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-r-project::before {
+  content: "\e9dc";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-itunes::before {
+  content: "\e9dd";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-itunes-note::before {
+  content: "\e9de";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-java::before {
+  content: "\e9df";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-jedi-order::before {
+  content: "\e9e0";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-jenkins::before {
+  content: "\e9e1";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-jira::before {
+  content: "\e9e2";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-joget::before {
+  content: "\e9e3";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-joomla::before {
+  content: "\e9e4";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-js::before {
+  content: "\e9e5";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-jsfiddle::before {
+  content: "\e9e6";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-kaggle::before {
+  content: "\e9e7";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-keybase::before {
+  content: "\e9e8";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-keycdn::before {
+  content: "\e9e9";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-kickstarter::before {
+  content: "\e9ea";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-kickstarter-k::before {
+  content: "\e9eb";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-korvue::before {
+  content: "\e9ec";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-laravel::before {
+  content: "\e9ed";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-lastfm::before {
+  content: "\e9ee";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-leanpub::before {
+  content: "\e9ef";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-less::before {
+  content: "\e9f0";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-letterboxd::before {
+  content: "\e9f1";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-line::before {
+  content: "\e9f2";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-linkedin::before {
+  content: "\e9f3";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-linkedin-in::before {
+  content: "\e9f4";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-linode::before {
+  content: "\e9f5";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-linux::before {
+  content: "\e9f6";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-lyft::before {
+  content: "\e9f7";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-magento::before {
+  content: "\e9f8";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-mailchimp::before {
+  content: "\e9f9";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-mandalorian::before {
+  content: "\e9fa";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-markdown::before {
+  content: "\e9fb";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-mastodon::before {
+  content: "\e9fc";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-maxcdn::before {
+  content: "\e9fd";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-mdb::before {
+  content: "\e9fe";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-medapps::before {
+  content: "\e9ff";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-medium::before {
+  content: "\ea00";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-medrt::before {
+  content: "\ea01";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-meetup::before {
+  content: "\ea02";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-megaport::before {
+  content: "\ea03";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-mendeley::before {
+  content: "\ea04";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-meta::before {
+  content: "\ea05";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-microblog::before {
+  content: "\ea06";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-microsoft::before {
+  content: "\ea07";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-mintbit::before {
+  content: "\ea08";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-mix::before {
+  content: "\ea09";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-mixcloud::before {
+  content: "\ea0a";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-mixer::before {
+  content: "\ea0b";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-mizuni::before {
+  content: "\ea0c";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-modx::before {
+  content: "\ea0d";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-get-pocket::before {
+  content: "\ea0e";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-gg::before {
+  content: "\ea0f";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-gg-circle::before {
+  content: "\ea10";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-git::before {
+  content: "\ea11";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-git-alt::before {
+  content: "\ea12";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-github::before {
+  content: "\ea13";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-github-alt::before {
+  content: "\ea14";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-gitkraken::before {
+  content: "\ea15";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-gitlab::before {
+  content: "\ea16";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-gitter::before {
+  content: "\ea17";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-glide::before {
+  content: "\ea18";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-glide-g::before {
+  content: "\ea19";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-gofore::before {
+  content: "\ea1a";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-golang::before {
+  content: "\ea1b";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-goodreads::before {
+  content: "\ea1c";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-goodreads-g::before {
+  content: "\ea1d";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-google::before {
+  content: "\ea1e";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-google-drive::before {
+  content: "\ea1f";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-google-pay::before {
+  content: "\ea20";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-google-play::before {
+  content: "\ea21";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-google-plus::before {
+  content: "\ea22";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-google-plus-g::before {
+  content: "\ea23";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-google-scholar::before {
+  content: "\ea24";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-google-wallet::before {
+  content: "\ea25";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-gratipay::before {
+  content: "\ea26";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-grav::before {
+  content: "\ea27";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-gripfire::before {
+  content: "\ea28";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-grunt::before {
+  content: "\ea29";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-guilded::before {
+  content: "\ea2a";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-gulp::before {
+  content: "\ea2b";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-hacker-news::before {
+  content: "\ea2c";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-hackerrank::before {
+  content: "\ea2d";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-hashnode::before {
+  content: "\ea2e";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-hips::before {
+  content: "\ea2f";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-hire-a-helper::before {
+  content: "\ea30";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-hive::before {
+  content: "\ea31";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-hooli::before {
+  content: "\ea32";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-hornbill::before {
+  content: "\ea33";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-hotjar::before {
+  content: "\ea34";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-houzz::before {
+  content: "\ea35";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-html5::before {
+  content: "\ea36";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-hubspot::before {
+  content: "\ea37";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-ideal::before {
+  content: "\ea38";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-imdb::before {
+  content: "\ea39";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-instagram::before {
+  content: "\ea3a";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-instalod::before {
+  content: "\ea3b";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-intercom::before {
+  content: "\ea3c";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-internet-explorer::before {
+  content: "\ea3d";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-invision::before {
+  content: "\ea3e";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-ioxhost::before {
+  content: "\ea3f";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-itch-io::before {
+  content: "\ea40";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-dochub::before {
+  content: "\ea41";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-docker::before {
+  content: "\ea42";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-draft2digital::before {
+  content: "\ea43";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-dribbble::before {
+  content: "\ea44";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-dropbox::before {
+  content: "\ea45";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-drupal::before {
+  content: "\ea46";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-dyalog::before {
+  content: "\ea47";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-earlybirds::before {
+  content: "\ea48";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-ebay::before {
+  content: "\ea49";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-edge::before {
+  content: "\ea4a";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-edge-legacy::before {
+  content: "\ea4b";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-elementor::before {
+  content: "\ea4c";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-ello::before {
+  content: "\ea4d";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-ember::before {
+  content: "\ea4e";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-empire::before {
+  content: "\ea4f";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-envira::before {
+  content: "\ea50";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-erlang::before {
+  content: "\ea51";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-ethereum::before {
+  content: "\ea52";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-etsy::before {
+  content: "\ea53";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-evernote::before {
+  content: "\ea54";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-expeditedssl::before {
+  content: "\ea55";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-facebook::before {
+  content: "\ea56";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-facebook-f::before {
+  content: "\ea57";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-facebook-messenger::before {
+  content: "\ea58";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-fantasy-flight-games::before {
+  content: "\ea59";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-fedex::before {
+  content: "\ea5a";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-fedora::before {
+  content: "\ea5b";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-figma::before {
+  content: "\ea5c";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-firefox::before {
+  content: "\ea5d";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-firefox-browser::before {
+  content: "\ea5e";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-firstdraft::before {
+  content: "\ea5f";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-first-order::before {
+  content: "\ea60";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-first-order-alt::before {
+  content: "\ea61";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-flickr::before {
+  content: "\ea62";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-flipboard::before {
+  content: "\ea63";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-fly::before {
+  content: "\ea64";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-font-awesome::before {
+  content: "\ea65";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-fonticons::before {
+  content: "\ea66";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-fonticons-fi::before {
+  content: "\ea67";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-fort-awesome::before {
+  content: "\ea68";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-fort-awesome-alt::before {
+  content: "\ea69";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-forumbee::before {
+  content: "\ea6a";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-foursquare::before {
+  content: "\ea6b";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-freebsd::before {
+  content: "\ea6c";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-free-code-camp::before {
+  content: "\ea6d";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-fulcrum::before {
+  content: "\ea6e";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-galactic-republic::before {
+  content: "\ea6f";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-galactic-senate::before {
+  content: "\ea70";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-centos::before {
+  content: "\ea71";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-chrome::before {
+  content: "\ea72";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-chromecast::before {
+  content: "\ea73";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-cloudflare::before {
+  content: "\ea74";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-cloudscale::before {
+  content: "\ea75";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-cloudsmith::before {
+  content: "\ea76";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-cloudversify::before {
+  content: "\ea77";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-cmplid::before {
+  content: "\ea78";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-codepen::before {
+  content: "\ea79";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-codiepie::before {
+  content: "\ea7a";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-confluence::before {
+  content: "\ea7b";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-connectdevelop::before {
+  content: "\ea7c";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-contao::before {
+  content: "\ea7d";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-cotton-bureau::before {
+  content: "\ea7e";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-cpanel::before {
+  content: "\ea7f";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-creative-commons::before {
+  content: "\ea80";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-creative-commons-by::before {
+  content: "\ea81";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-creative-commons-nc::before {
+  content: "\ea82";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-creative-commons-nc-eu::before {
+  content: "\ea83";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-creative-commons-nc-jp::before {
+  content: "\ea84";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-creative-commons-nd::before {
+  content: "\ea85";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-creative-commons-pd::before {
+  content: "\ea86";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-creative-commons-pd-alt::before {
+  content: "\ea87";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-creative-commons-remix::before {
+  content: "\ea88";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-creative-commons-sa::before {
+  content: "\ea89";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-creative-commons-sampling::before {
+  content: "\ea8a";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-creative-commons-sampling-plus::before {
+  content: "\ea8b";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-creative-commons-share::before {
+  content: "\ea8c";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-creative-commons-zero::before {
+  content: "\ea8d";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-critical-role::before {
+  content: "\ea8e";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-css3::before {
+  content: "\ea8f";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-css3-alt::before {
+  content: "\ea90";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-cuttlefish::before {
+  content: "\ea91";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-dailymotion::before {
+  content: "\ea92";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-d-and-d::before {
+  content: "\ea93";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-d-and-d-beyond::before {
+  content: "\ea94";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-dashcube::before {
+  content: "\ea95";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-debian::before {
+  content: "\ea96";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-deezer::before {
+  content: "\ea97";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-delicious::before {
+  content: "\ea98";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-deploydog::before {
+  content: "\ea99";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-deskpro::before {
+  content: "\ea9a";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-dev::before {
+  content: "\ea9b";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-deviantart::before {
+  content: "\ea9c";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-dhl::before {
+  content: "\ea9d";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-diaspora::before {
+  content: "\ea9e";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-digg::before {
+  content: "\ea9f";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-digital-ocean::before {
+  content: "\eaa0";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-discord::before {
+  content: "\eaa1";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-discourse::before {
+  content: "\eaa2";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-angular::before {
+  content: "\eaa3";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-apper::before {
+  content: "\eaa4";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-apple::before {
+  content: "\eaa5";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-apple-pay::before {
+  content: "\eaa6";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-app-store::before {
+  content: "\eaa7";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-app-store-ios::before {
+  content: "\eaa8";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-artstation::before {
+  content: "\eaa9";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-asymmetrik::before {
+  content: "\eaaa";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-atlassian::before {
+  content: "\eaab";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-audible::before {
+  content: "\eaac";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-autoprefixer::before {
+  content: "\eaad";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-avianex::before {
+  content: "\eaae";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-aviato::before {
+  content: "\eaaf";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-aws::before {
+  content: "\eab0";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-bandcamp::before {
+  content: "\eab1";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-battle-net::before {
+  content: "\eab2";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-behance::before {
+  content: "\eab3";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-bilibili::before {
+  content: "\eab4";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-bimobject::before {
+  content: "\eab5";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-bitbucket::before {
+  content: "\eab6";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-bitcoin::before {
+  content: "\eab7";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-bity::before {
+  content: "\eab8";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-blackberry::before {
+  content: "\eab9";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-black-tie::before {
+  content: "\eaba";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-blogger::before {
+  content: "\eabb";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-blogger-b::before {
+  content: "\eabc";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-bluetooth::before {
+  content: "\eabd";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-bluetooth-b::before {
+  content: "\eabe";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-bootstrap::before {
+  content: "\eabf";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-bots::before {
+  content: "\eac0";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-brave::before {
+  content: "\eac1";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-brave-reverse::before {
+  content: "\eac2";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-btc::before {
+  content: "\eac3";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-buffer::before {
+  content: "\eac4";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-buromobelexperte::before {
+  content: "\eac5";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-buy-n-large::before {
+  content: "\eac6";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-buysellads::before {
+  content: "\eac7";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-canadian-maple-leaf::before {
+  content: "\eac8";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-cc-amazon-pay::before {
+  content: "\eac9";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-cc-amex::before {
+  content: "\eaca";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-cc-apple-pay::before {
+  content: "\eacb";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-cc-diners-club::before {
+  content: "\eacc";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-cc-discover::before {
+  content: "\eacd";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-cc-jcb::before {
+  content: "\eace";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-cc-mastercard::before {
+  content: "\eacf";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-cc-paypal::before {
+  content: "\ead0";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-cc-stripe::before {
+  content: "\ead1";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-cc-visa::before {
+  content: "\ead2";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-centercode::before {
+  content: "\ead3";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-group::before {
+  content: "\ead4";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-px::before {
+  content: "\ead5";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-accessible-icon::before {
+  content: "\ead6";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-accusoft::before {
+  content: "\ead7";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-adn::before {
+  content: "\ead8";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-adversal::before {
+  content: "\ead9";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-affiliatetheme::before {
+  content: "\eada";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-airbnb::before {
+  content: "\eadb";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-algolia::before {
+  content: "\eadc";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-alipay::before {
+  content: "\eadd";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-amazon::before {
+  content: "\eade";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-amazon-pay::before {
+  content: "\eadf";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-amilia::before {
+  content: "\eae0";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-android::before {
+  content: "\eae1";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-angellist::before {
+  content: "\eae2";
+}
+
+.FontAwesomeIcons_FontAwesome_Brands.FontAwesomeIcons_FontAwesome_Brands-angrycreative::before {
+  content: "\eae3";
+}
+
+@font-face {
+  font-family: "FontAwesomeIcons$FontAwesome_Solid";
+  src: url("./fonts/FontAwesomeIcons$FontAwesome_Solid.ttf") format("truetype");
+}
+.fa-solid {
+  display: inline-block;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  font-family: "FontAwesomeIcons$FontAwesome_Solid";
+}
+
+.fa-solid.fa-vihara::before {
+  content: "\e900";
+}
+
+.fa-solid.fa-virus::before {
+  content: "\e901";
+}
+
+.fa-solid.fa-virus-covid::before {
+  content: "\e902";
+}
+
+.fa-solid.fa-virus-covid-slash::before {
+  content: "\e903";
+}
+
+.fa-solid.fa-viruses::before {
+  content: "\e904";
+}
+
+.fa-solid.fa-virus-slash::before {
+  content: "\e905";
+}
+
+.fa-solid.fa-voicemail::before {
+  content: "\e906";
+}
+
+.fa-solid.fa-volcano::before {
+  content: "\e907";
+}
+
+.fa-solid.fa-volleyball::before {
+  content: "\e908";
+}
+
+.fa-solid.fa-volume-high::before {
+  content: "\e909";
+}
+
+.fa-solid.fa-volume-low::before {
+  content: "\e90a";
+}
+
+.fa-solid.fa-volume-off::before {
+  content: "\e90b";
+}
+
+.fa-solid.fa-volume-xmark::before {
+  content: "\e90c";
+}
+
+.fa-solid.fa-vr-cardboard::before {
+  content: "\e90d";
+}
+
+.fa-solid.fa-w::before {
+  content: "\e90e";
+}
+
+.fa-solid.fa-walkie-talkie::before {
+  content: "\e90f";
+}
+
+.fa-solid.fa-wallet::before {
+  content: "\e910";
+}
+
+.fa-solid.fa-wand-magic::before {
+  content: "\e911";
+}
+
+.fa-solid.fa-wand-magic-sparkles::before {
+  content: "\e912";
+}
+
+.fa-solid.fa-wand-sparkles::before {
+  content: "\e913";
+}
+
+.fa-solid.fa-warehouse::before {
+  content: "\e914";
+}
+
+.fa-solid.fa-water::before {
+  content: "\e915";
+}
+
+.fa-solid.fa-water-ladder::before {
+  content: "\e916";
+}
+
+.fa-solid.fa-wave-square::before {
+  content: "\e917";
+}
+
+.fa-solid.fa-weight-hanging::before {
+  content: "\e918";
+}
+
+.fa-solid.fa-weight-scale::before {
+  content: "\e919";
+}
+
+.fa-solid.fa-wheat-awn::before {
+  content: "\e91a";
+}
+
+.fa-solid.fa-wheat-awn-circle-exclamation::before {
+  content: "\e91b";
+}
+
+.fa-solid.fa-wheelchair::before {
+  content: "\e91c";
+}
+
+.fa-solid.fa-wheelchair-move::before {
+  content: "\e91d";
+}
+
+.fa-solid.fa-whiskey-glass::before {
+  content: "\e91e";
+}
+
+.fa-solid.fa-wifi::before {
+  content: "\e91f";
+}
+
+.fa-solid.fa-wind::before {
+  content: "\e920";
+}
+
+.fa-solid.fa-window-maximize::before {
+  content: "\e921";
+}
+
+.fa-solid.fa-window-minimize::before {
+  content: "\e922";
+}
+
+.fa-solid.fa-window-restore::before {
+  content: "\e923";
+}
+
+.fa-solid.fa-wine-bottle::before {
+  content: "\e924";
+}
+
+.fa-solid.fa-wine-glass::before {
+  content: "\e925";
+}
+
+.fa-solid.fa-wine-glass-empty::before {
+  content: "\e926";
+}
+
+.fa-solid.fa-won-sign::before {
+  content: "\e927";
+}
+
+.fa-solid.fa-worm::before {
+  content: "\e928";
+}
+
+.fa-solid.fa-wrench::before {
+  content: "\e929";
+}
+
+.fa-solid.fa-x::before {
+  content: "\e92a";
+}
+
+.fa-solid.fa-xmark::before {
+  content: "\e92b";
+}
+
+.fa-solid.fa-xmarks-lines::before {
+  content: "\e92c";
+}
+
+.fa-solid.fa-x-ray::before {
+  content: "\e92d";
+}
+
+.fa-solid.fa-y::before {
+  content: "\e92e";
+}
+
+.fa-solid.fa-yen-sign::before {
+  content: "\e92f";
+}
+
+.fa-solid.fa-yin-yang::before {
+  content: "\e930";
+}
+
+.fa-solid.fa-z::before {
+  content: "\e931";
+}
+
+.fa-solid.fa-upload::before {
+  content: "\e932";
+}
+
+.fa-solid.fa-up-right-and-down-left-from-center::before {
+  content: "\e933";
+}
+
+.fa-solid.fa-up-right-from-square::before {
+  content: "\e934";
+}
+
+.fa-solid.fa-user::before {
+  content: "\e935";
+}
+
+.fa-solid.fa-user-astronaut::before {
+  content: "\e936";
+}
+
+.fa-solid.fa-user-check::before {
+  content: "\e937";
+}
+
+.fa-solid.fa-user-clock::before {
+  content: "\e938";
+}
+
+.fa-solid.fa-user-doctor::before {
+  content: "\e939";
+}
+
+.fa-solid.fa-user-gear::before {
+  content: "\e93a";
+}
+
+.fa-solid.fa-user-graduate::before {
+  content: "\e93b";
+}
+
+.fa-solid.fa-user-group::before {
+  content: "\e93c";
+}
+
+.fa-solid.fa-user-injured::before {
+  content: "\e93d";
+}
+
+.fa-solid.fa-user-large::before {
+  content: "\e93e";
+}
+
+.fa-solid.fa-user-large-slash::before {
+  content: "\e93f";
+}
+
+.fa-solid.fa-user-lock::before {
+  content: "\e940";
+}
+
+.fa-solid.fa-user-minus::before {
+  content: "\e941";
+}
+
+.fa-solid.fa-user-ninja::before {
+  content: "\e942";
+}
+
+.fa-solid.fa-user-nurse::before {
+  content: "\e943";
+}
+
+.fa-solid.fa-user-pen::before {
+  content: "\e944";
+}
+
+.fa-solid.fa-user-plus::before {
+  content: "\e945";
+}
+
+.fa-solid.fa-users::before {
+  content: "\e946";
+}
+
+.fa-solid.fa-users-between-lines::before {
+  content: "\e947";
+}
+
+.fa-solid.fa-user-secret::before {
+  content: "\e948";
+}
+
+.fa-solid.fa-users-gear::before {
+  content: "\e949";
+}
+
+.fa-solid.fa-user-shield::before {
+  content: "\e94a";
+}
+
+.fa-solid.fa-user-slash::before {
+  content: "\e94b";
+}
+
+.fa-solid.fa-users-line::before {
+  content: "\e94c";
+}
+
+.fa-solid.fa-users-rays::before {
+  content: "\e94d";
+}
+
+.fa-solid.fa-users-rectangle::before {
+  content: "\e94e";
+}
+
+.fa-solid.fa-users-slash::before {
+  content: "\e94f";
+}
+
+.fa-solid.fa-users-viewfinder::before {
+  content: "\e950";
+}
+
+.fa-solid.fa-user-tag::before {
+  content: "\e951";
+}
+
+.fa-solid.fa-user-tie::before {
+  content: "\e952";
+}
+
+.fa-solid.fa-user-xmark::before {
+  content: "\e953";
+}
+
+.fa-solid.fa-utensils::before {
+  content: "\e954";
+}
+
+.fa-solid.fa-v::before {
+  content: "\e955";
+}
+
+.fa-solid.fa-van-shuttle::before {
+  content: "\e956";
+}
+
+.fa-solid.fa-vault::before {
+  content: "\e957";
+}
+
+.fa-solid.fa-vector-square::before {
+  content: "\e958";
+}
+
+.fa-solid.fa-venus::before {
+  content: "\e959";
+}
+
+.fa-solid.fa-venus-double::before {
+  content: "\e95a";
+}
+
+.fa-solid.fa-venus-mars::before {
+  content: "\e95b";
+}
+
+.fa-solid.fa-vest::before {
+  content: "\e95c";
+}
+
+.fa-solid.fa-vest-patches::before {
+  content: "\e95d";
+}
+
+.fa-solid.fa-vial::before {
+  content: "\e95e";
+}
+
+.fa-solid.fa-vial-circle-check::before {
+  content: "\e95f";
+}
+
+.fa-solid.fa-vials::before {
+  content: "\e960";
+}
+
+.fa-solid.fa-vial-virus::before {
+  content: "\e961";
+}
+
+.fa-solid.fa-video::before {
+  content: "\e962";
+}
+
+.fa-solid.fa-video-slash::before {
+  content: "\e963";
+}
+
+.fa-solid.fa-torii-gate::before {
+  content: "\e964";
+}
+
+.fa-solid.fa-tornado::before {
+  content: "\e965";
+}
+
+.fa-solid.fa-tower-broadcast::before {
+  content: "\e966";
+}
+
+.fa-solid.fa-tower-cell::before {
+  content: "\e967";
+}
+
+.fa-solid.fa-tower-observation::before {
+  content: "\e968";
+}
+
+.fa-solid.fa-tractor::before {
+  content: "\e969";
+}
+
+.fa-solid.fa-trademark::before {
+  content: "\e96a";
+}
+
+.fa-solid.fa-traffic-light::before {
+  content: "\e96b";
+}
+
+.fa-solid.fa-trailer::before {
+  content: "\e96c";
+}
+
+.fa-solid.fa-train::before {
+  content: "\e96d";
+}
+
+.fa-solid.fa-train-subway::before {
+  content: "\e96e";
+}
+
+.fa-solid.fa-train-tram::before {
+  content: "\e96f";
+}
+
+.fa-solid.fa-transgender::before {
+  content: "\e970";
+}
+
+.fa-solid.fa-trash::before {
+  content: "\e971";
+}
+
+.fa-solid.fa-trash-arrow-up::before {
+  content: "\e972";
+}
+
+.fa-solid.fa-trash-can::before {
+  content: "\e973";
+}
+
+.fa-solid.fa-trash-can-arrow-up::before {
+  content: "\e974";
+}
+
+.fa-solid.fa-tree::before {
+  content: "\e975";
+}
+
+.fa-solid.fa-tree-city::before {
+  content: "\e976";
+}
+
+.fa-solid.fa-triangle-exclamation::before {
+  content: "\e977";
+}
+
+.fa-solid.fa-trophy::before {
+  content: "\e978";
+}
+
+.fa-solid.fa-trowel::before {
+  content: "\e979";
+}
+
+.fa-solid.fa-trowel-bricks::before {
+  content: "\e97a";
+}
+
+.fa-solid.fa-truck::before {
+  content: "\e97b";
+}
+
+.fa-solid.fa-truck-arrow-right::before {
+  content: "\e97c";
+}
+
+.fa-solid.fa-truck-droplet::before {
+  content: "\e97d";
+}
+
+.fa-solid.fa-truck-fast::before {
+  content: "\e97e";
+}
+
+.fa-solid.fa-truck-field::before {
+  content: "\e97f";
+}
+
+.fa-solid.fa-truck-field-un::before {
+  content: "\e980";
+}
+
+.fa-solid.fa-truck-front::before {
+  content: "\e981";
+}
+
+.fa-solid.fa-truck-medical::before {
+  content: "\e982";
+}
+
+.fa-solid.fa-truck-monster::before {
+  content: "\e983";
+}
+
+.fa-solid.fa-truck-moving::before {
+  content: "\e984";
+}
+
+.fa-solid.fa-truck-pickup::before {
+  content: "\e985";
+}
+
+.fa-solid.fa-truck-plane::before {
+  content: "\e986";
+}
+
+.fa-solid.fa-truck-ramp-box::before {
+  content: "\e987";
+}
+
+.fa-solid.fa-tty::before {
+  content: "\e988";
+}
+
+.fa-solid.fa-turkish-lira-sign::before {
+  content: "\e989";
+}
+
+.fa-solid.fa-turn-down::before {
+  content: "\e98a";
+}
+
+.fa-solid.fa-turn-up::before {
+  content: "\e98b";
+}
+
+.fa-solid.fa-tv::before {
+  content: "\e98c";
+}
+
+.fa-solid.fa-u::before {
+  content: "\e98d";
+}
+
+.fa-solid.fa-umbrella::before {
+  content: "\e98e";
+}
+
+.fa-solid.fa-umbrella-beach::before {
+  content: "\e98f";
+}
+
+.fa-solid.fa-underline::before {
+  content: "\e990";
+}
+
+.fa-solid.fa-universal-access::before {
+  content: "\e991";
+}
+
+.fa-solid.fa-unlock::before {
+  content: "\e992";
+}
+
+.fa-solid.fa-unlock-keyhole::before {
+  content: "\e993";
+}
+
+.fa-solid.fa-up-down::before {
+  content: "\e994";
+}
+
+.fa-solid.fa-up-down-left-right::before {
+  content: "\e995";
+}
+
+.fa-solid.fa-up-long::before {
+  content: "\e996";
+}
+
+.fa-solid.fa-table::before {
+  content: "\e997";
+}
+
+.fa-solid.fa-tablet::before {
+  content: "\e998";
+}
+
+.fa-solid.fa-tablet-button::before {
+  content: "\e999";
+}
+
+.fa-solid.fa-tablets::before {
+  content: "\e99a";
+}
+
+.fa-solid.fa-tablet-screen-button::before {
+  content: "\e99b";
+}
+
+.fa-solid.fa-tachograph-digital::before {
+  content: "\e99c";
+}
+
+.fa-solid.fa-tag::before {
+  content: "\e99d";
+}
+
+.fa-solid.fa-tags::before {
+  content: "\e99e";
+}
+
+.fa-solid.fa-tape::before {
+  content: "\e99f";
+}
+
+.fa-solid.fa-tarp::before {
+  content: "\e9a0";
+}
+
+.fa-solid.fa-tarp-droplet::before {
+  content: "\e9a1";
+}
+
+.fa-solid.fa-taxi::before {
+  content: "\e9a2";
+}
+
+.fa-solid.fa-teeth::before {
+  content: "\e9a3";
+}
+
+.fa-solid.fa-teeth-open::before {
+  content: "\e9a4";
+}
+
+.fa-solid.fa-temperature-arrow-down::before {
+  content: "\e9a5";
+}
+
+.fa-solid.fa-temperature-arrow-up::before {
+  content: "\e9a6";
+}
+
+.fa-solid.fa-temperature-empty::before {
+  content: "\e9a7";
+}
+
+.fa-solid.fa-temperature-full::before {
+  content: "\e9a8";
+}
+
+.fa-solid.fa-temperature-half::before {
+  content: "\e9a9";
+}
+
+.fa-solid.fa-temperature-high::before {
+  content: "\e9aa";
+}
+
+.fa-solid.fa-temperature-low::before {
+  content: "\e9ab";
+}
+
+.fa-solid.fa-temperature-quarter::before {
+  content: "\e9ac";
+}
+
+.fa-solid.fa-temperature-three-quarters::before {
+  content: "\e9ad";
+}
+
+.fa-solid.fa-tenge-sign::before {
+  content: "\e9ae";
+}
+
+.fa-solid.fa-tent::before {
+  content: "\e9af";
+}
+
+.fa-solid.fa-tent-arrow-down-to-line::before {
+  content: "\e9b0";
+}
+
+.fa-solid.fa-tent-arrow-left-right::before {
+  content: "\e9b1";
+}
+
+.fa-solid.fa-tent-arrows-down::before {
+  content: "\e9b2";
+}
+
+.fa-solid.fa-tent-arrow-turn-left::before {
+  content: "\e9b3";
+}
+
+.fa-solid.fa-tents::before {
+  content: "\e9b4";
+}
+
+.fa-solid.fa-terminal::before {
+  content: "\e9b5";
+}
+
+.fa-solid.fa-text-height::before {
+  content: "\e9b6";
+}
+
+.fa-solid.fa-text-slash::before {
+  content: "\e9b7";
+}
+
+.fa-solid.fa-text-width::before {
+  content: "\e9b8";
+}
+
+.fa-solid.fa-thermometer::before {
+  content: "\e9b9";
+}
+
+.fa-solid.fa-thumbs-down::before {
+  content: "\e9ba";
+}
+
+.fa-solid.fa-thumbs-up::before {
+  content: "\e9bb";
+}
+
+.fa-solid.fa-thumbtack::before {
+  content: "\e9bc";
+}
+
+.fa-solid.fa-ticket::before {
+  content: "\e9bd";
+}
+
+.fa-solid.fa-ticket-simple::before {
+  content: "\e9be";
+}
+
+.fa-solid.fa-timeline::before {
+  content: "\e9bf";
+}
+
+.fa-solid.fa-toggle-off::before {
+  content: "\e9c0";
+}
+
+.fa-solid.fa-toggle-on::before {
+  content: "\e9c1";
+}
+
+.fa-solid.fa-toilet::before {
+  content: "\e9c2";
+}
+
+.fa-solid.fa-toilet-paper::before {
+  content: "\e9c3";
+}
+
+.fa-solid.fa-toilet-paper-slash::before {
+  content: "\e9c4";
+}
+
+.fa-solid.fa-toilet-portable::before {
+  content: "\e9c5";
+}
+
+.fa-solid.fa-toilets-portable::before {
+  content: "\e9c6";
+}
+
+.fa-solid.fa-toolbox::before {
+  content: "\e9c7";
+}
+
+.fa-solid.fa-tooth::before {
+  content: "\e9c8";
+}
+
+.fa-solid.fa-square::before {
+  content: "\e9c9";
+}
+
+.fa-solid.fa-square-nfi::before {
+  content: "\e9ca";
+}
+
+.fa-solid.fa-square-parking::before {
+  content: "\e9cb";
+}
+
+.fa-solid.fa-square-pen::before {
+  content: "\e9cc";
+}
+
+.fa-solid.fa-square-person-confined::before {
+  content: "\e9cd";
+}
+
+.fa-solid.fa-square-phone::before {
+  content: "\e9ce";
+}
+
+.fa-solid.fa-square-phone-flip::before {
+  content: "\e9cf";
+}
+
+.fa-solid.fa-square-plus::before {
+  content: "\e9d0";
+}
+
+.fa-solid.fa-square-poll-horizontal::before {
+  content: "\e9d1";
+}
+
+.fa-solid.fa-square-poll-vertical::before {
+  content: "\e9d2";
+}
+
+.fa-solid.fa-square-root-variable::before {
+  content: "\e9d3";
+}
+
+.fa-solid.fa-square-rss::before {
+  content: "\e9d4";
+}
+
+.fa-solid.fa-square-share-nodes::before {
+  content: "\e9d5";
+}
+
+.fa-solid.fa-square-up-right::before {
+  content: "\e9d6";
+}
+
+.fa-solid.fa-square-virus::before {
+  content: "\e9d7";
+}
+
+.fa-solid.fa-square-xmark::before {
+  content: "\e9d8";
+}
+
+.fa-solid.fa-staff-snake::before {
+  content: "\e9d9";
+}
+
+.fa-solid.fa-stairs::before {
+  content: "\e9da";
+}
+
+.fa-solid.fa-stamp::before {
+  content: "\e9db";
+}
+
+.fa-solid.fa-stapler::before {
+  content: "\e9dc";
+}
+
+.fa-solid.fa-star::before {
+  content: "\e9dd";
+}
+
+.fa-solid.fa-star-and-crescent::before {
+  content: "\e9de";
+}
+
+.fa-solid.fa-star-half::before {
+  content: "\e9df";
+}
+
+.fa-solid.fa-star-half-stroke::before {
+  content: "\e9e0";
+}
+
+.fa-solid.fa-star-of-david::before {
+  content: "\e9e1";
+}
+
+.fa-solid.fa-star-of-life::before {
+  content: "\e9e2";
+}
+
+.fa-solid.fa-sterling-sign::before {
+  content: "\e9e3";
+}
+
+.fa-solid.fa-stethoscope::before {
+  content: "\e9e4";
+}
+
+.fa-solid.fa-stop::before {
+  content: "\e9e5";
+}
+
+.fa-solid.fa-stopwatch::before {
+  content: "\e9e6";
+}
+
+.fa-solid.fa-stopwatch-20::before {
+  content: "\e9e7";
+}
+
+.fa-solid.fa-store::before {
+  content: "\e9e8";
+}
+
+.fa-solid.fa-store-slash::before {
+  content: "\e9e9";
+}
+
+.fa-solid.fa-street-view::before {
+  content: "\e9ea";
+}
+
+.fa-solid.fa-strikethrough::before {
+  content: "\e9eb";
+}
+
+.fa-solid.fa-stroopwafel::before {
+  content: "\e9ec";
+}
+
+.fa-solid.fa-subscript::before {
+  content: "\e9ed";
+}
+
+.fa-solid.fa-suitcase::before {
+  content: "\e9ee";
+}
+
+.fa-solid.fa-suitcase-medical::before {
+  content: "\e9ef";
+}
+
+.fa-solid.fa-suitcase-rolling::before {
+  content: "\e9f0";
+}
+
+.fa-solid.fa-sun::before {
+  content: "\e9f1";
+}
+
+.fa-solid.fa-sun-plant-wilt::before {
+  content: "\e9f2";
+}
+
+.fa-solid.fa-superscript::before {
+  content: "\e9f3";
+}
+
+.fa-solid.fa-swatchbook::before {
+  content: "\e9f4";
+}
+
+.fa-solid.fa-synagogue::before {
+  content: "\e9f5";
+}
+
+.fa-solid.fa-syringe::before {
+  content: "\e9f6";
+}
+
+.fa-solid.fa-t::before {
+  content: "\e9f7";
+}
+
+.fa-solid.fa-table-cells::before {
+  content: "\e9f8";
+}
+
+.fa-solid.fa-table-cells-large::before {
+  content: "\e9f9";
+}
+
+.fa-solid.fa-table-columns::before {
+  content: "\e9fa";
+}
+
+.fa-solid.fa-table-list::before {
+  content: "\e9fb";
+}
+
+.fa-solid.fa-table-tennis-paddle-ball::before {
+  content: "\e9fc";
+}
+
+.fa-solid.fa-ship::before {
+  content: "\e9fd";
+}
+
+.fa-solid.fa-shirt::before {
+  content: "\e9fe";
+}
+
+.fa-solid.fa-shoe-prints::before {
+  content: "\e9ff";
+}
+
+.fa-solid.fa-shop::before {
+  content: "\ea00";
+}
+
+.fa-solid.fa-shop-lock::before {
+  content: "\ea01";
+}
+
+.fa-solid.fa-shop-slash::before {
+  content: "\ea02";
+}
+
+.fa-solid.fa-shower::before {
+  content: "\ea03";
+}
+
+.fa-solid.fa-shrimp::before {
+  content: "\ea04";
+}
+
+.fa-solid.fa-shuffle::before {
+  content: "\ea05";
+}
+
+.fa-solid.fa-shuttle-space::before {
+  content: "\ea06";
+}
+
+.fa-solid.fa-signal::before {
+  content: "\ea07";
+}
+
+.fa-solid.fa-signature::before {
+  content: "\ea08";
+}
+
+.fa-solid.fa-sign-hanging::before {
+  content: "\ea09";
+}
+
+.fa-solid.fa-signs-post::before {
+  content: "\ea0a";
+}
+
+.fa-solid.fa-sim-card::before {
+  content: "\ea0b";
+}
+
+.fa-solid.fa-sink::before {
+  content: "\ea0c";
+}
+
+.fa-solid.fa-sitemap::before {
+  content: "\ea0d";
+}
+
+.fa-solid.fa-skull::before {
+  content: "\ea0e";
+}
+
+.fa-solid.fa-skull-crossbones::before {
+  content: "\ea0f";
+}
+
+.fa-solid.fa-slash::before {
+  content: "\ea10";
+}
+
+.fa-solid.fa-sleigh::before {
+  content: "\ea11";
+}
+
+.fa-solid.fa-sliders::before {
+  content: "\ea12";
+}
+
+.fa-solid.fa-smog::before {
+  content: "\ea13";
+}
+
+.fa-solid.fa-smoking::before {
+  content: "\ea14";
+}
+
+.fa-solid.fa-snowflake::before {
+  content: "\ea15";
+}
+
+.fa-solid.fa-snowman::before {
+  content: "\ea16";
+}
+
+.fa-solid.fa-snowplow::before {
+  content: "\ea17";
+}
+
+.fa-solid.fa-soap::before {
+  content: "\ea18";
+}
+
+.fa-solid.fa-socks::before {
+  content: "\ea19";
+}
+
+.fa-solid.fa-solar-panel::before {
+  content: "\ea1a";
+}
+
+.fa-solid.fa-sort::before {
+  content: "\ea1b";
+}
+
+.fa-solid.fa-sort-down::before {
+  content: "\ea1c";
+}
+
+.fa-solid.fa-sort-up::before {
+  content: "\ea1d";
+}
+
+.fa-solid.fa-spa::before {
+  content: "\ea1e";
+}
+
+.fa-solid.fa-spaghetti-monster-flying::before {
+  content: "\ea1f";
+}
+
+.fa-solid.fa-spell-check::before {
+  content: "\ea20";
+}
+
+.fa-solid.fa-spider::before {
+  content: "\ea21";
+}
+
+.fa-solid.fa-spinner::before {
+  content: "\ea22";
+}
+
+.fa-solid.fa-splotch::before {
+  content: "\ea23";
+}
+
+.fa-solid.fa-spoon::before {
+  content: "\ea24";
+}
+
+.fa-solid.fa-spray-can::before {
+  content: "\ea25";
+}
+
+.fa-solid.fa-spray-can-sparkles::before {
+  content: "\ea26";
+}
+
+.fa-solid.fa-square-arrow-up-right::before {
+  content: "\ea27";
+}
+
+.fa-solid.fa-square-caret-down::before {
+  content: "\ea28";
+}
+
+.fa-solid.fa-square-caret-left::before {
+  content: "\ea29";
+}
+
+.fa-solid.fa-square-caret-right::before {
+  content: "\ea2a";
+}
+
+.fa-solid.fa-square-caret-up::before {
+  content: "\ea2b";
+}
+
+.fa-solid.fa-square-check::before {
+  content: "\ea2c";
+}
+
+.fa-solid.fa-square-envelope::before {
+  content: "\ea2d";
+}
+
+.fa-solid.fa-square-full::before {
+  content: "\ea2e";
+}
+
+.fa-solid.fa-square-h::before {
+  content: "\ea2f";
+}
+
+.fa-solid.fa-square-minus::before {
+  content: "\ea30";
+}
+
+.fa-solid.fa-robot::before {
+  content: "\ea31";
+}
+
+.fa-solid.fa-rocket::before {
+  content: "\ea32";
+}
+
+.fa-solid.fa-rotate::before {
+  content: "\ea33";
+}
+
+.fa-solid.fa-rotate-left::before {
+  content: "\ea34";
+}
+
+.fa-solid.fa-rotate-right::before {
+  content: "\ea35";
+}
+
+.fa-solid.fa-route::before {
+  content: "\ea36";
+}
+
+.fa-solid.fa-rss::before {
+  content: "\ea37";
+}
+
+.fa-solid.fa-ruble-sign::before {
+  content: "\ea38";
+}
+
+.fa-solid.fa-rug::before {
+  content: "\ea39";
+}
+
+.fa-solid.fa-ruler::before {
+  content: "\ea3a";
+}
+
+.fa-solid.fa-ruler-combined::before {
+  content: "\ea3b";
+}
+
+.fa-solid.fa-ruler-horizontal::before {
+  content: "\ea3c";
+}
+
+.fa-solid.fa-ruler-vertical::before {
+  content: "\ea3d";
+}
+
+.fa-solid.fa-rupee-sign::before {
+  content: "\ea3e";
+}
+
+.fa-solid.fa-rupiah-sign::before {
+  content: "\ea3f";
+}
+
+.fa-solid.fa-s::before {
+  content: "\ea40";
+}
+
+.fa-solid.fa-sack-dollar::before {
+  content: "\ea41";
+}
+
+.fa-solid.fa-sack-xmark::before {
+  content: "\ea42";
+}
+
+.fa-solid.fa-sailboat::before {
+  content: "\ea43";
+}
+
+.fa-solid.fa-satellite::before {
+  content: "\ea44";
+}
+
+.fa-solid.fa-satellite-dish::before {
+  content: "\ea45";
+}
+
+.fa-solid.fa-scale-balanced::before {
+  content: "\ea46";
+}
+
+.fa-solid.fa-scale-unbalanced::before {
+  content: "\ea47";
+}
+
+.fa-solid.fa-scale-unbalanced-flip::before {
+  content: "\ea48";
+}
+
+.fa-solid.fa-school::before {
+  content: "\ea49";
+}
+
+.fa-solid.fa-school-circle-check::before {
+  content: "\ea4a";
+}
+
+.fa-solid.fa-school-circle-exclamation::before {
+  content: "\ea4b";
+}
+
+.fa-solid.fa-school-circle-xmark::before {
+  content: "\ea4c";
+}
+
+.fa-solid.fa-school-flag::before {
+  content: "\ea4d";
+}
+
+.fa-solid.fa-school-lock::before {
+  content: "\ea4e";
+}
+
+.fa-solid.fa-scissors::before {
+  content: "\ea4f";
+}
+
+.fa-solid.fa-screwdriver::before {
+  content: "\ea50";
+}
+
+.fa-solid.fa-screwdriver-wrench::before {
+  content: "\ea51";
+}
+
+.fa-solid.fa-scroll::before {
+  content: "\ea52";
+}
+
+.fa-solid.fa-scroll-torah::before {
+  content: "\ea53";
+}
+
+.fa-solid.fa-sd-card::before {
+  content: "\ea54";
+}
+
+.fa-solid.fa-section::before {
+  content: "\ea55";
+}
+
+.fa-solid.fa-seedling::before {
+  content: "\ea56";
+}
+
+.fa-solid.fa-server::before {
+  content: "\ea57";
+}
+
+.fa-solid.fa-shapes::before {
+  content: "\ea58";
+}
+
+.fa-solid.fa-share::before {
+  content: "\ea59";
+}
+
+.fa-solid.fa-share-from-square::before {
+  content: "\ea5a";
+}
+
+.fa-solid.fa-share-nodes::before {
+  content: "\ea5b";
+}
+
+.fa-solid.fa-sheet-plastic::before {
+  content: "\ea5c";
+}
+
+.fa-solid.fa-shekel-sign::before {
+  content: "\ea5d";
+}
+
+.fa-solid.fa-shield::before {
+  content: "\ea5e";
+}
+
+.fa-solid.fa-shield-cat::before {
+  content: "\ea5f";
+}
+
+.fa-solid.fa-shield-dog::before {
+  content: "\ea60";
+}
+
+.fa-solid.fa-shield-halved::before {
+  content: "\ea61";
+}
+
+.fa-solid.fa-shield-heart::before {
+  content: "\ea62";
+}
+
+.fa-solid.fa-shield-virus::before {
+  content: "\ea63";
+}
+
+.fa-solid.fa-plug::before {
+  content: "\ea64";
+}
+
+.fa-solid.fa-plus::before {
+  content: "\ea65";
+}
+
+.fa-solid.fa-plus-minus::before {
+  content: "\ea66";
+}
+
+.fa-solid.fa-podcast::before {
+  content: "\ea67";
+}
+
+.fa-solid.fa-poo::before {
+  content: "\ea68";
+}
+
+.fa-solid.fa-poop::before {
+  content: "\ea69";
+}
+
+.fa-solid.fa-poo-storm::before {
+  content: "\ea6a";
+}
+
+.fa-solid.fa-power-off::before {
+  content: "\ea6b";
+}
+
+.fa-solid.fa-prescription::before {
+  content: "\ea6c";
+}
+
+.fa-solid.fa-prescription-bottle::before {
+  content: "\ea6d";
+}
+
+.fa-solid.fa-prescription-bottle-medical::before {
+  content: "\ea6e";
+}
+
+.fa-solid.fa-print::before {
+  content: "\ea6f";
+}
+
+.fa-solid.fa-pump-medical::before {
+  content: "\ea70";
+}
+
+.fa-solid.fa-pump-soap::before {
+  content: "\ea71";
+}
+
+.fa-solid.fa-puzzle-piece::before {
+  content: "\ea72";
+}
+
+.fa-solid.fa-q::before {
+  content: "\ea73";
+}
+
+.fa-solid.fa-qrcode::before {
+  content: "\ea74";
+}
+
+.fa-solid.fa-question::before {
+  content: "\ea75";
+}
+
+.fa-solid.fa-quote-left::before {
+  content: "\ea76";
+}
+
+.fa-solid.fa-quote-right::before {
+  content: "\ea77";
+}
+
+.fa-solid.fa-r::before {
+  content: "\ea78";
+}
+
+.fa-solid.fa-radiation::before {
+  content: "\ea79";
+}
+
+.fa-solid.fa-radio::before {
+  content: "\ea7a";
+}
+
+.fa-solid.fa-rainbow::before {
+  content: "\ea7b";
+}
+
+.fa-solid.fa-ranking-star::before {
+  content: "\ea7c";
+}
+
+.fa-solid.fa-receipt::before {
+  content: "\ea7d";
+}
+
+.fa-solid.fa-record-vinyl::before {
+  content: "\ea7e";
+}
+
+.fa-solid.fa-rectangle-ad::before {
+  content: "\ea7f";
+}
+
+.fa-solid.fa-rectangle-list::before {
+  content: "\ea80";
+}
+
+.fa-solid.fa-rectangle-xmark::before {
+  content: "\ea81";
+}
+
+.fa-solid.fa-recycle::before {
+  content: "\ea82";
+}
+
+.fa-solid.fa-registered::before {
+  content: "\ea83";
+}
+
+.fa-solid.fa-repeat::before {
+  content: "\ea84";
+}
+
+.fa-solid.fa-reply::before {
+  content: "\ea85";
+}
+
+.fa-solid.fa-reply-all::before {
+  content: "\ea86";
+}
+
+.fa-solid.fa-republican::before {
+  content: "\ea87";
+}
+
+.fa-solid.fa-restroom::before {
+  content: "\ea88";
+}
+
+.fa-solid.fa-retweet::before {
+  content: "\ea89";
+}
+
+.fa-solid.fa-ribbon::before {
+  content: "\ea8a";
+}
+
+.fa-solid.fa-right-from-bracket::before {
+  content: "\ea8b";
+}
+
+.fa-solid.fa-right-left::before {
+  content: "\ea8c";
+}
+
+.fa-solid.fa-right-long::before {
+  content: "\ea8d";
+}
+
+.fa-solid.fa-right-to-bracket::before {
+  content: "\ea8e";
+}
+
+.fa-solid.fa-ring::before {
+  content: "\ea8f";
+}
+
+.fa-solid.fa-road::before {
+  content: "\ea90";
+}
+
+.fa-solid.fa-road-barrier::before {
+  content: "\ea91";
+}
+
+.fa-solid.fa-road-bridge::before {
+  content: "\ea92";
+}
+
+.fa-solid.fa-road-circle-check::before {
+  content: "\ea93";
+}
+
+.fa-solid.fa-road-circle-exclamation::before {
+  content: "\ea94";
+}
+
+.fa-solid.fa-road-circle-xmark::before {
+  content: "\ea95";
+}
+
+.fa-solid.fa-road-lock::before {
+  content: "\ea96";
+}
+
+.fa-solid.fa-road-spikes::before {
+  content: "\ea97";
+}
+
+.fa-solid.fa-person::before {
+  content: "\ea98";
+}
+
+.fa-solid.fa-person-military-rifle::before {
+  content: "\ea99";
+}
+
+.fa-solid.fa-person-military-to-person::before {
+  content: "\ea9a";
+}
+
+.fa-solid.fa-person-praying::before {
+  content: "\ea9b";
+}
+
+.fa-solid.fa-person-pregnant::before {
+  content: "\ea9c";
+}
+
+.fa-solid.fa-person-rays::before {
+  content: "\ea9d";
+}
+
+.fa-solid.fa-person-rifle::before {
+  content: "\ea9e";
+}
+
+.fa-solid.fa-person-running::before {
+  content: "\ea9f";
+}
+
+.fa-solid.fa-person-shelter::before {
+  content: "\eaa0";
+}
+
+.fa-solid.fa-person-skating::before {
+  content: "\eaa1";
+}
+
+.fa-solid.fa-person-skiing::before {
+  content: "\eaa2";
+}
+
+.fa-solid.fa-person-skiing-nordic::before {
+  content: "\eaa3";
+}
+
+.fa-solid.fa-person-snowboarding::before {
+  content: "\eaa4";
+}
+
+.fa-solid.fa-person-swimming::before {
+  content: "\eaa5";
+}
+
+.fa-solid.fa-person-through-window::before {
+  content: "\eaa6";
+}
+
+.fa-solid.fa-person-walking::before {
+  content: "\eaa7";
+}
+
+.fa-solid.fa-person-walking-arrow-loop-left::before {
+  content: "\eaa8";
+}
+
+.fa-solid.fa-person-walking-arrow-right::before {
+  content: "\eaa9";
+}
+
+.fa-solid.fa-person-walking-dashed-line-arrow-right::before {
+  content: "\eaaa";
+}
+
+.fa-solid.fa-person-walking-luggage::before {
+  content: "\eaab";
+}
+
+.fa-solid.fa-person-walking-with-cane::before {
+  content: "\eaac";
+}
+
+.fa-solid.fa-peseta-sign::before {
+  content: "\eaad";
+}
+
+.fa-solid.fa-peso-sign::before {
+  content: "\eaae";
+}
+
+.fa-solid.fa-phone::before {
+  content: "\eaaf";
+}
+
+.fa-solid.fa-phone-flip::before {
+  content: "\eab0";
+}
+
+.fa-solid.fa-phone-slash::before {
+  content: "\eab1";
+}
+
+.fa-solid.fa-phone-volume::before {
+  content: "\eab2";
+}
+
+.fa-solid.fa-photo-film::before {
+  content: "\eab3";
+}
+
+.fa-solid.fa-piggy-bank::before {
+  content: "\eab4";
+}
+
+.fa-solid.fa-pills::before {
+  content: "\eab5";
+}
+
+.fa-solid.fa-pizza-slice::before {
+  content: "\eab6";
+}
+
+.fa-solid.fa-place-of-worship::before {
+  content: "\eab7";
+}
+
+.fa-solid.fa-plane::before {
+  content: "\eab8";
+}
+
+.fa-solid.fa-plane-arrival::before {
+  content: "\eab9";
+}
+
+.fa-solid.fa-plane-circle-check::before {
+  content: "\eaba";
+}
+
+.fa-solid.fa-plane-circle-exclamation::before {
+  content: "\eabb";
+}
+
+.fa-solid.fa-plane-circle-xmark::before {
+  content: "\eabc";
+}
+
+.fa-solid.fa-plane-departure::before {
+  content: "\eabd";
+}
+
+.fa-solid.fa-plane-lock::before {
+  content: "\eabe";
+}
+
+.fa-solid.fa-plane-slash::before {
+  content: "\eabf";
+}
+
+.fa-solid.fa-plane-up::before {
+  content: "\eac0";
+}
+
+.fa-solid.fa-plant-wilt::before {
+  content: "\eac1";
+}
+
+.fa-solid.fa-plate-wheat::before {
+  content: "\eac2";
+}
+
+.fa-solid.fa-play::before {
+  content: "\eac3";
+}
+
+.fa-solid.fa-plug-circle-bolt::before {
+  content: "\eac4";
+}
+
+.fa-solid.fa-plug-circle-check::before {
+  content: "\eac5";
+}
+
+.fa-solid.fa-plug-circle-exclamation::before {
+  content: "\eac6";
+}
+
+.fa-solid.fa-plug-circle-minus::before {
+  content: "\eac7";
+}
+
+.fa-solid.fa-plug-circle-plus::before {
+  content: "\eac8";
+}
+
+.fa-solid.fa-plug-circle-xmark::before {
+  content: "\eac9";
+}
+
+.fa-solid.fa-panorama::before {
+  content: "\eaca";
+}
+
+.fa-solid.fa-paperclip::before {
+  content: "\eacb";
+}
+
+.fa-solid.fa-paper-plane::before {
+  content: "\eacc";
+}
+
+.fa-solid.fa-parachute-box::before {
+  content: "\eacd";
+}
+
+.fa-solid.fa-paragraph::before {
+  content: "\eace";
+}
+
+.fa-solid.fa-passport::before {
+  content: "\eacf";
+}
+
+.fa-solid.fa-paste::before {
+  content: "\ead0";
+}
+
+.fa-solid.fa-pause::before {
+  content: "\ead1";
+}
+
+.fa-solid.fa-paw::before {
+  content: "\ead2";
+}
+
+.fa-solid.fa-peace::before {
+  content: "\ead3";
+}
+
+.fa-solid.fa-pen::before {
+  content: "\ead4";
+}
+
+.fa-solid.fa-pencil::before {
+  content: "\ead5";
+}
+
+.fa-solid.fa-pen-clip::before {
+  content: "\ead6";
+}
+
+.fa-solid.fa-pen-fancy::before {
+  content: "\ead7";
+}
+
+.fa-solid.fa-pen-nib::before {
+  content: "\ead8";
+}
+
+.fa-solid.fa-pen-ruler::before {
+  content: "\ead9";
+}
+
+.fa-solid.fa-pen-to-square::before {
+  content: "\eada";
+}
+
+.fa-solid.fa-people-arrows::before {
+  content: "\eadb";
+}
+
+.fa-solid.fa-people-carry-box::before {
+  content: "\eadc";
+}
+
+.fa-solid.fa-people-group::before {
+  content: "\eadd";
+}
+
+.fa-solid.fa-people-line::before {
+  content: "\eade";
+}
+
+.fa-solid.fa-people-pulling::before {
+  content: "\eadf";
+}
+
+.fa-solid.fa-people-robbery::before {
+  content: "\eae0";
+}
+
+.fa-solid.fa-people-roof::before {
+  content: "\eae1";
+}
+
+.fa-solid.fa-pepper-hot::before {
+  content: "\eae2";
+}
+
+.fa-solid.fa-percent::before {
+  content: "\eae3";
+}
+
+.fa-solid.fa-person-arrow-down-to-line::before {
+  content: "\eae4";
+}
+
+.fa-solid.fa-person-arrow-up-from-line::before {
+  content: "\eae5";
+}
+
+.fa-solid.fa-person-biking::before {
+  content: "\eae6";
+}
+
+.fa-solid.fa-person-booth::before {
+  content: "\eae7";
+}
+
+.fa-solid.fa-person-breastfeeding::before {
+  content: "\eae8";
+}
+
+.fa-solid.fa-person-burst::before {
+  content: "\eae9";
+}
+
+.fa-solid.fa-person-cane::before {
+  content: "\eaea";
+}
+
+.fa-solid.fa-person-chalkboard::before {
+  content: "\eaeb";
+}
+
+.fa-solid.fa-person-circle-check::before {
+  content: "\eaec";
+}
+
+.fa-solid.fa-person-circle-exclamation::before {
+  content: "\eaed";
+}
+
+.fa-solid.fa-person-circle-minus::before {
+  content: "\eaee";
+}
+
+.fa-solid.fa-person-circle-plus::before {
+  content: "\eaef";
+}
+
+.fa-solid.fa-person-circle-question::before {
+  content: "\eaf0";
+}
+
+.fa-solid.fa-person-circle-xmark::before {
+  content: "\eaf1";
+}
+
+.fa-solid.fa-person-digging::before {
+  content: "\eaf2";
+}
+
+.fa-solid.fa-person-dots-from-line::before {
+  content: "\eaf3";
+}
+
+.fa-solid.fa-person-dress::before {
+  content: "\eaf4";
+}
+
+.fa-solid.fa-person-dress-burst::before {
+  content: "\eaf5";
+}
+
+.fa-solid.fa-person-drowning::before {
+  content: "\eaf6";
+}
+
+.fa-solid.fa-person-falling::before {
+  content: "\eaf7";
+}
+
+.fa-solid.fa-person-falling-burst::before {
+  content: "\eaf8";
+}
+
+.fa-solid.fa-person-half-dress::before {
+  content: "\eaf9";
+}
+
+.fa-solid.fa-person-harassing::before {
+  content: "\eafa";
+}
+
+.fa-solid.fa-person-hiking::before {
+  content: "\eafb";
+}
+
+.fa-solid.fa-person-military-pointing::before {
+  content: "\eafc";
+}
+
+.fa-solid.fa-mobile::before {
+  content: "\eafd";
+}
+
+.fa-solid.fa-mobile-screen::before {
+  content: "\eafe";
+}
+
+.fa-solid.fa-money-bill::before {
+  content: "\eaff";
+}
+
+.fa-solid.fa-money-bill-1::before {
+  content: "\eb00";
+}
+
+.fa-solid.fa-money-bill-1-wave::before {
+  content: "\eb01";
+}
+
+.fa-solid.fa-money-bills::before {
+  content: "\eb02";
+}
+
+.fa-solid.fa-money-bill-transfer::before {
+  content: "\eb03";
+}
+
+.fa-solid.fa-money-bill-trend-up::before {
+  content: "\eb04";
+}
+
+.fa-solid.fa-money-bill-wave::before {
+  content: "\eb05";
+}
+
+.fa-solid.fa-money-bill-wheat::before {
+  content: "\eb06";
+}
+
+.fa-solid.fa-money-check::before {
+  content: "\eb07";
+}
+
+.fa-solid.fa-money-check-dollar::before {
+  content: "\eb08";
+}
+
+.fa-solid.fa-monument::before {
+  content: "\eb09";
+}
+
+.fa-solid.fa-moon::before {
+  content: "\eb0a";
+}
+
+.fa-solid.fa-mortar-pestle::before {
+  content: "\eb0b";
+}
+
+.fa-solid.fa-mosque::before {
+  content: "\eb0c";
+}
+
+.fa-solid.fa-mosquito::before {
+  content: "\eb0d";
+}
+
+.fa-solid.fa-mosquito-net::before {
+  content: "\eb0e";
+}
+
+.fa-solid.fa-motorcycle::before {
+  content: "\eb0f";
+}
+
+.fa-solid.fa-mound::before {
+  content: "\eb10";
+}
+
+.fa-solid.fa-mountain::before {
+  content: "\eb11";
+}
+
+.fa-solid.fa-mountain-city::before {
+  content: "\eb12";
+}
+
+.fa-solid.fa-mountain-sun::before {
+  content: "\eb13";
+}
+
+.fa-solid.fa-mug-hot::before {
+  content: "\eb14";
+}
+
+.fa-solid.fa-mug-saucer::before {
+  content: "\eb15";
+}
+
+.fa-solid.fa-music::before {
+  content: "\eb16";
+}
+
+.fa-solid.fa-n::before {
+  content: "\eb17";
+}
+
+.fa-solid.fa-naira-sign::before {
+  content: "\eb18";
+}
+
+.fa-solid.fa-network-wired::before {
+  content: "\eb19";
+}
+
+.fa-solid.fa-neuter::before {
+  content: "\eb1a";
+}
+
+.fa-solid.fa-newspaper::before {
+  content: "\eb1b";
+}
+
+.fa-solid.fa-notdef::before {
+  content: "\eb1c";
+}
+
+.fa-solid.fa-not-equal::before {
+  content: "\eb1d";
+}
+
+.fa-solid.fa-notes-medical::before {
+  content: "\eb1e";
+}
+
+.fa-solid.fa-note-sticky::before {
+  content: "\eb1f";
+}
+
+.fa-solid.fa-o::before {
+  content: "\eb20";
+}
+
+.fa-solid.fa-object-group::before {
+  content: "\eb21";
+}
+
+.fa-solid.fa-object-ungroup::before {
+  content: "\eb22";
+}
+
+.fa-solid.fa-oil-can::before {
+  content: "\eb23";
+}
+
+.fa-solid.fa-oil-well::before {
+  content: "\eb24";
+}
+
+.fa-solid.fa-om::before {
+  content: "\eb25";
+}
+
+.fa-solid.fa-otter::before {
+  content: "\eb26";
+}
+
+.fa-solid.fa-outdent::before {
+  content: "\eb27";
+}
+
+.fa-solid.fa-p::before {
+  content: "\eb28";
+}
+
+.fa-solid.fa-pager::before {
+  content: "\eb29";
+}
+
+.fa-solid.fa-paintbrush::before {
+  content: "\eb2a";
+}
+
+.fa-solid.fa-paint-roller::before {
+  content: "\eb2b";
+}
+
+.fa-solid.fa-palette::before {
+  content: "\eb2c";
+}
+
+.fa-solid.fa-pallet::before {
+  content: "\eb2d";
+}
+
+.fa-solid.fa-lungs::before {
+  content: "\eb2e";
+}
+
+.fa-solid.fa-m::before {
+  content: "\eb2f";
+}
+
+.fa-solid.fa-magnet::before {
+  content: "\eb30";
+}
+
+.fa-solid.fa-magnifying-glass::before {
+  content: "\eb31";
+}
+
+.fa-solid.fa-magnifying-glass-arrow-right::before {
+  content: "\eb32";
+}
+
+.fa-solid.fa-magnifying-glass-chart::before {
+  content: "\eb33";
+}
+
+.fa-solid.fa-magnifying-glass-dollar::before {
+  content: "\eb34";
+}
+
+.fa-solid.fa-magnifying-glass-location::before {
+  content: "\eb35";
+}
+
+.fa-solid.fa-magnifying-glass-minus::before {
+  content: "\eb36";
+}
+
+.fa-solid.fa-magnifying-glass-plus::before {
+  content: "\eb37";
+}
+
+.fa-solid.fa-manat-sign::before {
+  content: "\eb38";
+}
+
+.fa-solid.fa-map::before {
+  content: "\eb39";
+}
+
+.fa-solid.fa-map-location::before {
+  content: "\eb3a";
+}
+
+.fa-solid.fa-map-location-dot::before {
+  content: "\eb3b";
+}
+
+.fa-solid.fa-map-pin::before {
+  content: "\eb3c";
+}
+
+.fa-solid.fa-marker::before {
+  content: "\eb3d";
+}
+
+.fa-solid.fa-mars::before {
+  content: "\eb3e";
+}
+
+.fa-solid.fa-mars-and-venus::before {
+  content: "\eb3f";
+}
+
+.fa-solid.fa-mars-and-venus-burst::before {
+  content: "\eb40";
+}
+
+.fa-solid.fa-mars-double::before {
+  content: "\eb41";
+}
+
+.fa-solid.fa-mars-stroke::before {
+  content: "\eb42";
+}
+
+.fa-solid.fa-mars-stroke-right::before {
+  content: "\eb43";
+}
+
+.fa-solid.fa-mars-stroke-up::before {
+  content: "\eb44";
+}
+
+.fa-solid.fa-martini-glass::before {
+  content: "\eb45";
+}
+
+.fa-solid.fa-martini-glass-citrus::before {
+  content: "\eb46";
+}
+
+.fa-solid.fa-martini-glass-empty::before {
+  content: "\eb47";
+}
+
+.fa-solid.fa-mask::before {
+  content: "\eb48";
+}
+
+.fa-solid.fa-mask-face::before {
+  content: "\eb49";
+}
+
+.fa-solid.fa-masks-theater::before {
+  content: "\eb4a";
+}
+
+.fa-solid.fa-mask-ventilator::before {
+  content: "\eb4b";
+}
+
+.fa-solid.fa-mattress-pillow::before {
+  content: "\eb4c";
+}
+
+.fa-solid.fa-maximize::before {
+  content: "\eb4d";
+}
+
+.fa-solid.fa-medal::before {
+  content: "\eb4e";
+}
+
+.fa-solid.fa-memory::before {
+  content: "\eb4f";
+}
+
+.fa-solid.fa-menorah::before {
+  content: "\eb50";
+}
+
+.fa-solid.fa-mercury::before {
+  content: "\eb51";
+}
+
+.fa-solid.fa-message::before {
+  content: "\eb52";
+}
+
+.fa-solid.fa-meteor::before {
+  content: "\eb53";
+}
+
+.fa-solid.fa-microchip::before {
+  content: "\eb54";
+}
+
+.fa-solid.fa-microphone::before {
+  content: "\eb55";
+}
+
+.fa-solid.fa-microphone-lines::before {
+  content: "\eb56";
+}
+
+.fa-solid.fa-microphone-lines-slash::before {
+  content: "\eb57";
+}
+
+.fa-solid.fa-microphone-slash::before {
+  content: "\eb58";
+}
+
+.fa-solid.fa-microscope::before {
+  content: "\eb59";
+}
+
+.fa-solid.fa-mill-sign::before {
+  content: "\eb5a";
+}
+
+.fa-solid.fa-minimize::before {
+  content: "\eb5b";
+}
+
+.fa-solid.fa-minus::before {
+  content: "\eb5c";
+}
+
+.fa-solid.fa-mitten::before {
+  content: "\eb5d";
+}
+
+.fa-solid.fa-mobile-button::before {
+  content: "\eb5e";
+}
+
+.fa-solid.fa-mobile-retro::before {
+  content: "\eb5f";
+}
+
+.fa-solid.fa-mobile-screen-button::before {
+  content: "\eb60";
+}
+
+.fa-solid.fa-joint::before {
+  content: "\eb61";
+}
+
+.fa-solid.fa-jug-detergent::before {
+  content: "\eb62";
+}
+
+.fa-solid.fa-k::before {
+  content: "\eb63";
+}
+
+.fa-solid.fa-kaaba::before {
+  content: "\eb64";
+}
+
+.fa-solid.fa-key::before {
+  content: "\eb65";
+}
+
+.fa-solid.fa-keyboard::before {
+  content: "\eb66";
+}
+
+.fa-solid.fa-khanda::before {
+  content: "\eb67";
+}
+
+.fa-solid.fa-kip-sign::before {
+  content: "\eb68";
+}
+
+.fa-solid.fa-kitchen-set::before {
+  content: "\eb69";
+}
+
+.fa-solid.fa-kit-medical::before {
+  content: "\eb6a";
+}
+
+.fa-solid.fa-kiwi-bird::before {
+  content: "\eb6b";
+}
+
+.fa-solid.fa-l::before {
+  content: "\eb6c";
+}
+
+.fa-solid.fa-landmark::before {
+  content: "\eb6d";
+}
+
+.fa-solid.fa-landmark-dome::before {
+  content: "\eb6e";
+}
+
+.fa-solid.fa-landmark-flag::before {
+  content: "\eb6f";
+}
+
+.fa-solid.fa-land-mine-on::before {
+  content: "\eb70";
+}
+
+.fa-solid.fa-language::before {
+  content: "\eb71";
+}
+
+.fa-solid.fa-laptop::before {
+  content: "\eb72";
+}
+
+.fa-solid.fa-laptop-code::before {
+  content: "\eb73";
+}
+
+.fa-solid.fa-laptop-file::before {
+  content: "\eb74";
+}
+
+.fa-solid.fa-laptop-medical::before {
+  content: "\eb75";
+}
+
+.fa-solid.fa-lari-sign::before {
+  content: "\eb76";
+}
+
+.fa-solid.fa-layer-group::before {
+  content: "\eb77";
+}
+
+.fa-solid.fa-leaf::before {
+  content: "\eb78";
+}
+
+.fa-solid.fa-left-long::before {
+  content: "\eb79";
+}
+
+.fa-solid.fa-left-right::before {
+  content: "\eb7a";
+}
+
+.fa-solid.fa-lemon::before {
+  content: "\eb7b";
+}
+
+.fa-solid.fa-less-than::before {
+  content: "\eb7c";
+}
+
+.fa-solid.fa-less-than-equal::before {
+  content: "\eb7d";
+}
+
+.fa-solid.fa-life-ring::before {
+  content: "\eb7e";
+}
+
+.fa-solid.fa-lightbulb::before {
+  content: "\eb7f";
+}
+
+.fa-solid.fa-lines-leaning::before {
+  content: "\eb80";
+}
+
+.fa-solid.fa-link::before {
+  content: "\eb81";
+}
+
+.fa-solid.fa-link-slash::before {
+  content: "\eb82";
+}
+
+.fa-solid.fa-lira-sign::before {
+  content: "\eb83";
+}
+
+.fa-solid.fa-list::before {
+  content: "\eb84";
+}
+
+.fa-solid.fa-list-check::before {
+  content: "\eb85";
+}
+
+.fa-solid.fa-list-ol::before {
+  content: "\eb86";
+}
+
+.fa-solid.fa-list-ul::before {
+  content: "\eb87";
+}
+
+.fa-solid.fa-litecoin-sign::before {
+  content: "\eb88";
+}
+
+.fa-solid.fa-location-arrow::before {
+  content: "\eb89";
+}
+
+.fa-solid.fa-location-crosshairs::before {
+  content: "\eb8a";
+}
+
+.fa-solid.fa-location-dot::before {
+  content: "\eb8b";
+}
+
+.fa-solid.fa-location-pin::before {
+  content: "\eb8c";
+}
+
+.fa-solid.fa-location-pin-lock::before {
+  content: "\eb8d";
+}
+
+.fa-solid.fa-lock::before {
+  content: "\eb8e";
+}
+
+.fa-solid.fa-lock-open::before {
+  content: "\eb8f";
+}
+
+.fa-solid.fa-locust::before {
+  content: "\eb90";
+}
+
+.fa-solid.fa-lungs-virus::before {
+  content: "\eb91";
+}
+
+.fa-solid.fa-house::before {
+  content: "\eb92";
+}
+
+.fa-solid.fa-house-chimney::before {
+  content: "\eb93";
+}
+
+.fa-solid.fa-house-chimney-crack::before {
+  content: "\eb94";
+}
+
+.fa-solid.fa-house-chimney-medical::before {
+  content: "\eb95";
+}
+
+.fa-solid.fa-house-chimney-user::before {
+  content: "\eb96";
+}
+
+.fa-solid.fa-house-chimney-window::before {
+  content: "\eb97";
+}
+
+.fa-solid.fa-house-circle-check::before {
+  content: "\eb98";
+}
+
+.fa-solid.fa-house-circle-exclamation::before {
+  content: "\eb99";
+}
+
+.fa-solid.fa-house-circle-xmark::before {
+  content: "\eb9a";
+}
+
+.fa-solid.fa-house-crack::before {
+  content: "\eb9b";
+}
+
+.fa-solid.fa-house-fire::before {
+  content: "\eb9c";
+}
+
+.fa-solid.fa-house-flag::before {
+  content: "\eb9d";
+}
+
+.fa-solid.fa-house-flood-water::before {
+  content: "\eb9e";
+}
+
+.fa-solid.fa-house-flood-water-circle-arrow-right::before {
+  content: "\eb9f";
+}
+
+.fa-solid.fa-house-laptop::before {
+  content: "\eba0";
+}
+
+.fa-solid.fa-house-lock::before {
+  content: "\eba1";
+}
+
+.fa-solid.fa-house-medical::before {
+  content: "\eba2";
+}
+
+.fa-solid.fa-house-medical-circle-check::before {
+  content: "\eba3";
+}
+
+.fa-solid.fa-house-medical-circle-exclamation::before {
+  content: "\eba4";
+}
+
+.fa-solid.fa-house-medical-circle-xmark::before {
+  content: "\eba5";
+}
+
+.fa-solid.fa-house-medical-flag::before {
+  content: "\eba6";
+}
+
+.fa-solid.fa-house-signal::before {
+  content: "\eba7";
+}
+
+.fa-solid.fa-house-tsunami::before {
+  content: "\eba8";
+}
+
+.fa-solid.fa-house-user::before {
+  content: "\eba9";
+}
+
+.fa-solid.fa-hryvnia-sign::before {
+  content: "\ebaa";
+}
+
+.fa-solid.fa-hurricane::before {
+  content: "\ebab";
+}
+
+.fa-solid.fa-i::before {
+  content: "\ebac";
+}
+
+.fa-solid.fa-ice-cream::before {
+  content: "\ebad";
+}
+
+.fa-solid.fa-icicles::before {
+  content: "\ebae";
+}
+
+.fa-solid.fa-icons::before {
+  content: "\ebaf";
+}
+
+.fa-solid.fa-i-cursor::before {
+  content: "\ebb0";
+}
+
+.fa-solid.fa-id-badge::before {
+  content: "\ebb1";
+}
+
+.fa-solid.fa-id-card::before {
+  content: "\ebb2";
+}
+
+.fa-solid.fa-id-card-clip::before {
+  content: "\ebb3";
+}
+
+.fa-solid.fa-igloo::before {
+  content: "\ebb4";
+}
+
+.fa-solid.fa-image::before {
+  content: "\ebb5";
+}
+
+.fa-solid.fa-image-portrait::before {
+  content: "\ebb6";
+}
+
+.fa-solid.fa-images::before {
+  content: "\ebb7";
+}
+
+.fa-solid.fa-inbox::before {
+  content: "\ebb8";
+}
+
+.fa-solid.fa-indent::before {
+  content: "\ebb9";
+}
+
+.fa-solid.fa-indian-rupee-sign::before {
+  content: "\ebba";
+}
+
+.fa-solid.fa-industry::before {
+  content: "\ebbb";
+}
+
+.fa-solid.fa-infinity::before {
+  content: "\ebbc";
+}
+
+.fa-solid.fa-info::before {
+  content: "\ebbd";
+}
+
+.fa-solid.fa-italic::before {
+  content: "\ebbe";
+}
+
+.fa-solid.fa-j::before {
+  content: "\ebbf";
+}
+
+.fa-solid.fa-jar::before {
+  content: "\ebc0";
+}
+
+.fa-solid.fa-jar-wheat::before {
+  content: "\ebc1";
+}
+
+.fa-solid.fa-jedi::before {
+  content: "\ebc2";
+}
+
+.fa-solid.fa-jet-fighter::before {
+  content: "\ebc3";
+}
+
+.fa-solid.fa-jet-fighter-up::before {
+  content: "\ebc4";
+}
+
+.fa-solid.fa-hands::before {
+  content: "\ebc5";
+}
+
+.fa-solid.fa-handshake::before {
+  content: "\ebc6";
+}
+
+.fa-solid.fa-handshake-angle::before {
+  content: "\ebc7";
+}
+
+.fa-solid.fa-handshake-simple::before {
+  content: "\ebc8";
+}
+
+.fa-solid.fa-handshake-simple-slash::before {
+  content: "\ebc9";
+}
+
+.fa-solid.fa-handshake-slash::before {
+  content: "\ebca";
+}
+
+.fa-solid.fa-hanukiah::before {
+  content: "\ebcb";
+}
+
+.fa-solid.fa-hard-drive::before {
+  content: "\ebcc";
+}
+
+.fa-solid.fa-hashtag::before {
+  content: "\ebcd";
+}
+
+.fa-solid.fa-hat-cowboy::before {
+  content: "\ebce";
+}
+
+.fa-solid.fa-hat-cowboy-side::before {
+  content: "\ebcf";
+}
+
+.fa-solid.fa-hat-wizard::before {
+  content: "\ebd0";
+}
+
+.fa-solid.fa-heading::before {
+  content: "\ebd1";
+}
+
+.fa-solid.fa-headphones::before {
+  content: "\ebd2";
+}
+
+.fa-solid.fa-headphones-simple::before {
+  content: "\ebd3";
+}
+
+.fa-solid.fa-headset::before {
+  content: "\ebd4";
+}
+
+.fa-solid.fa-head-side-cough::before {
+  content: "\ebd5";
+}
+
+.fa-solid.fa-head-side-cough-slash::before {
+  content: "\ebd6";
+}
+
+.fa-solid.fa-head-side-mask::before {
+  content: "\ebd7";
+}
+
+.fa-solid.fa-head-side-virus::before {
+  content: "\ebd8";
+}
+
+.fa-solid.fa-heart::before {
+  content: "\ebd9";
+}
+
+.fa-solid.fa-heart-circle-bolt::before {
+  content: "\ebda";
+}
+
+.fa-solid.fa-heart-circle-check::before {
+  content: "\ebdb";
+}
+
+.fa-solid.fa-heart-circle-exclamation::before {
+  content: "\ebdc";
+}
+
+.fa-solid.fa-heart-circle-minus::before {
+  content: "\ebdd";
+}
+
+.fa-solid.fa-heart-circle-plus::before {
+  content: "\ebde";
+}
+
+.fa-solid.fa-heart-circle-xmark::before {
+  content: "\ebdf";
+}
+
+.fa-solid.fa-heart-crack::before {
+  content: "\ebe0";
+}
+
+.fa-solid.fa-heart-pulse::before {
+  content: "\ebe1";
+}
+
+.fa-solid.fa-helicopter::before {
+  content: "\ebe2";
+}
+
+.fa-solid.fa-helicopter-symbol::before {
+  content: "\ebe3";
+}
+
+.fa-solid.fa-helmet-safety::before {
+  content: "\ebe4";
+}
+
+.fa-solid.fa-helmet-un::before {
+  content: "\ebe5";
+}
+
+.fa-solid.fa-highlighter::before {
+  content: "\ebe6";
+}
+
+.fa-solid.fa-hill-avalanche::before {
+  content: "\ebe7";
+}
+
+.fa-solid.fa-hill-rockslide::before {
+  content: "\ebe8";
+}
+
+.fa-solid.fa-hippo::before {
+  content: "\ebe9";
+}
+
+.fa-solid.fa-hockey-puck::before {
+  content: "\ebea";
+}
+
+.fa-solid.fa-holly-berry::before {
+  content: "\ebeb";
+}
+
+.fa-solid.fa-horse::before {
+  content: "\ebec";
+}
+
+.fa-solid.fa-horse-head::before {
+  content: "\ebed";
+}
+
+.fa-solid.fa-hospital::before {
+  content: "\ebee";
+}
+
+.fa-solid.fa-hospital-user::before {
+  content: "\ebef";
+}
+
+.fa-solid.fa-hotdog::before {
+  content: "\ebf0";
+}
+
+.fa-solid.fa-hotel::before {
+  content: "\ebf1";
+}
+
+.fa-solid.fa-hot-tub-person::before {
+  content: "\ebf2";
+}
+
+.fa-solid.fa-hourglass::before {
+  content: "\ebf3";
+}
+
+.fa-solid.fa-hourglass-end::before {
+  content: "\ebf4";
+}
+
+.fa-solid.fa-hourglass-half::before {
+  content: "\ebf5";
+}
+
+.fa-solid.fa-hourglass-start::before {
+  content: "\ebf6";
+}
+
+.fa-solid.fa-gifts::before {
+  content: "\ebf7";
+}
+
+.fa-solid.fa-glasses::before {
+  content: "\ebf8";
+}
+
+.fa-solid.fa-glass-water::before {
+  content: "\ebf9";
+}
+
+.fa-solid.fa-glass-water-droplet::before {
+  content: "\ebfa";
+}
+
+.fa-solid.fa-globe::before {
+  content: "\ebfb";
+}
+
+.fa-solid.fa-golf-ball-tee::before {
+  content: "\ebfc";
+}
+
+.fa-solid.fa-gopuram::before {
+  content: "\ebfd";
+}
+
+.fa-solid.fa-graduation-cap::before {
+  content: "\ebfe";
+}
+
+.fa-solid.fa-greater-than::before {
+  content: "\ebff";
+}
+
+.fa-solid.fa-greater-than-equal::before {
+  content: "\ec00";
+}
+
+.fa-solid.fa-grip::before {
+  content: "\ec01";
+}
+
+.fa-solid.fa-grip-lines::before {
+  content: "\ec02";
+}
+
+.fa-solid.fa-grip-lines-vertical::before {
+  content: "\ec03";
+}
+
+.fa-solid.fa-grip-vertical::before {
+  content: "\ec04";
+}
+
+.fa-solid.fa-group-arrows-rotate::before {
+  content: "\ec05";
+}
+
+.fa-solid.fa-guarani-sign::before {
+  content: "\ec06";
+}
+
+.fa-solid.fa-guitar::before {
+  content: "\ec07";
+}
+
+.fa-solid.fa-gun::before {
+  content: "\ec08";
+}
+
+.fa-solid.fa-h::before {
+  content: "\ec09";
+}
+
+.fa-solid.fa-hammer::before {
+  content: "\ec0a";
+}
+
+.fa-solid.fa-hamsa::before {
+  content: "\ec0b";
+}
+
+.fa-solid.fa-hand::before {
+  content: "\ec0c";
+}
+
+.fa-solid.fa-hand-back-fist::before {
+  content: "\ec0d";
+}
+
+.fa-solid.fa-handcuffs::before {
+  content: "\ec0e";
+}
+
+.fa-solid.fa-hand-dots::before {
+  content: "\ec0f";
+}
+
+.fa-solid.fa-hand-fist::before {
+  content: "\ec10";
+}
+
+.fa-solid.fa-hand-holding::before {
+  content: "\ec11";
+}
+
+.fa-solid.fa-hand-holding-dollar::before {
+  content: "\ec12";
+}
+
+.fa-solid.fa-hand-holding-droplet::before {
+  content: "\ec13";
+}
+
+.fa-solid.fa-hand-holding-hand::before {
+  content: "\ec14";
+}
+
+.fa-solid.fa-hand-holding-heart::before {
+  content: "\ec15";
+}
+
+.fa-solid.fa-hand-holding-medical::before {
+  content: "\ec16";
+}
+
+.fa-solid.fa-hand-lizard::before {
+  content: "\ec17";
+}
+
+.fa-solid.fa-hand-middle-finger::before {
+  content: "\ec18";
+}
+
+.fa-solid.fa-hand-peace::before {
+  content: "\ec19";
+}
+
+.fa-solid.fa-hand-point-down::before {
+  content: "\ec1a";
+}
+
+.fa-solid.fa-hand-pointer::before {
+  content: "\ec1b";
+}
+
+.fa-solid.fa-hand-point-left::before {
+  content: "\ec1c";
+}
+
+.fa-solid.fa-hand-point-right::before {
+  content: "\ec1d";
+}
+
+.fa-solid.fa-hand-point-up::before {
+  content: "\ec1e";
+}
+
+.fa-solid.fa-hands-asl-interpreting::before {
+  content: "\ec1f";
+}
+
+.fa-solid.fa-hands-bound::before {
+  content: "\ec20";
+}
+
+.fa-solid.fa-hands-bubbles::before {
+  content: "\ec21";
+}
+
+.fa-solid.fa-hand-scissors::before {
+  content: "\ec22";
+}
+
+.fa-solid.fa-hands-clapping::before {
+  content: "\ec23";
+}
+
+.fa-solid.fa-hands-holding::before {
+  content: "\ec24";
+}
+
+.fa-solid.fa-hands-holding-child::before {
+  content: "\ec25";
+}
+
+.fa-solid.fa-hands-holding-circle::before {
+  content: "\ec26";
+}
+
+.fa-solid.fa-hand-sparkles::before {
+  content: "\ec27";
+}
+
+.fa-solid.fa-hand-spock::before {
+  content: "\ec28";
+}
+
+.fa-solid.fa-hands-praying::before {
+  content: "\ec29";
+}
+
+.fa-solid.fa-file::before {
+  content: "\ec2a";
+}
+
+.fa-solid.fa-fill::before {
+  content: "\ec2b";
+}
+
+.fa-solid.fa-fill-drip::before {
+  content: "\ec2c";
+}
+
+.fa-solid.fa-film::before {
+  content: "\ec2d";
+}
+
+.fa-solid.fa-filter::before {
+  content: "\ec2e";
+}
+
+.fa-solid.fa-filter-circle-dollar::before {
+  content: "\ec2f";
+}
+
+.fa-solid.fa-filter-circle-xmark::before {
+  content: "\ec30";
+}
+
+.fa-solid.fa-fingerprint::before {
+  content: "\ec31";
+}
+
+.fa-solid.fa-fire::before {
+  content: "\ec32";
+}
+
+.fa-solid.fa-fire-burner::before {
+  content: "\ec33";
+}
+
+.fa-solid.fa-fire-extinguisher::before {
+  content: "\ec34";
+}
+
+.fa-solid.fa-fire-flame-curved::before {
+  content: "\ec35";
+}
+
+.fa-solid.fa-fire-flame-simple::before {
+  content: "\ec36";
+}
+
+.fa-solid.fa-fish::before {
+  content: "\ec37";
+}
+
+.fa-solid.fa-fish-fins::before {
+  content: "\ec38";
+}
+
+.fa-solid.fa-flag::before {
+  content: "\ec39";
+}
+
+.fa-solid.fa-flag-checkered::before {
+  content: "\ec3a";
+}
+
+.fa-solid.fa-flag-usa::before {
+  content: "\ec3b";
+}
+
+.fa-solid.fa-flask::before {
+  content: "\ec3c";
+}
+
+.fa-solid.fa-flask-vial::before {
+  content: "\ec3d";
+}
+
+.fa-solid.fa-floppy-disk::before {
+  content: "\ec3e";
+}
+
+.fa-solid.fa-florin-sign::before {
+  content: "\ec3f";
+}
+
+.fa-solid.fa-folder::before {
+  content: "\ec40";
+}
+
+.fa-solid.fa-folder-closed::before {
+  content: "\ec41";
+}
+
+.fa-solid.fa-folder-minus::before {
+  content: "\ec42";
+}
+
+.fa-solid.fa-folder-open::before {
+  content: "\ec43";
+}
+
+.fa-solid.fa-folder-plus::before {
+  content: "\ec44";
+}
+
+.fa-solid.fa-folder-tree::before {
+  content: "\ec45";
+}
+
+.fa-solid.fa-font::before {
+  content: "\ec46";
+}
+
+.fa-solid.fa-font-awesome::before {
+  content: "\ec47";
+}
+
+.fa-solid.fa-football::before {
+  content: "\ec48";
+}
+
+.fa-solid.fa-forward::before {
+  content: "\ec49";
+}
+
+.fa-solid.fa-forward-fast::before {
+  content: "\ec4a";
+}
+
+.fa-solid.fa-forward-step::before {
+  content: "\ec4b";
+}
+
+.fa-solid.fa-franc-sign::before {
+  content: "\ec4c";
+}
+
+.fa-solid.fa-frog::before {
+  content: "\ec4d";
+}
+
+.fa-solid.fa-futbol::before {
+  content: "\ec4e";
+}
+
+.fa-solid.fa-g::before {
+  content: "\ec4f";
+}
+
+.fa-solid.fa-gamepad::before {
+  content: "\ec50";
+}
+
+.fa-solid.fa-gas-pump::before {
+  content: "\ec51";
+}
+
+.fa-solid.fa-gauge::before {
+  content: "\ec52";
+}
+
+.fa-solid.fa-gauge-high::before {
+  content: "\ec53";
+}
+
+.fa-solid.fa-gauge-simple::before {
+  content: "\ec54";
+}
+
+.fa-solid.fa-gauge-simple-high::before {
+  content: "\ec55";
+}
+
+.fa-solid.fa-gavel::before {
+  content: "\ec56";
+}
+
+.fa-solid.fa-gear::before {
+  content: "\ec57";
+}
+
+.fa-solid.fa-gears::before {
+  content: "\ec58";
+}
+
+.fa-solid.fa-gem::before {
+  content: "\ec59";
+}
+
+.fa-solid.fa-genderless::before {
+  content: "\ec5a";
+}
+
+.fa-solid.fa-ghost::before {
+  content: "\ec5b";
+}
+
+.fa-solid.fa-gift::before {
+  content: "\ec5c";
+}
+
+.fa-solid.fa-face-laugh::before {
+  content: "\ec5d";
+}
+
+.fa-solid.fa-face-laugh-beam::before {
+  content: "\ec5e";
+}
+
+.fa-solid.fa-face-laugh-squint::before {
+  content: "\ec5f";
+}
+
+.fa-solid.fa-face-laugh-wink::before {
+  content: "\ec60";
+}
+
+.fa-solid.fa-face-meh::before {
+  content: "\ec61";
+}
+
+.fa-solid.fa-face-meh-blank::before {
+  content: "\ec62";
+}
+
+.fa-solid.fa-face-rolling-eyes::before {
+  content: "\ec63";
+}
+
+.fa-solid.fa-face-sad-cry::before {
+  content: "\ec64";
+}
+
+.fa-solid.fa-face-sad-tear::before {
+  content: "\ec65";
+}
+
+.fa-solid.fa-face-smile::before {
+  content: "\ec66";
+}
+
+.fa-solid.fa-face-smile-beam::before {
+  content: "\ec67";
+}
+
+.fa-solid.fa-face-smile-wink::before {
+  content: "\ec68";
+}
+
+.fa-solid.fa-face-surprise::before {
+  content: "\ec69";
+}
+
+.fa-solid.fa-face-tired::before {
+  content: "\ec6a";
+}
+
+.fa-solid.fa-fan::before {
+  content: "\ec6b";
+}
+
+.fa-solid.fa-faucet::before {
+  content: "\ec6c";
+}
+
+.fa-solid.fa-faucet-drip::before {
+  content: "\ec6d";
+}
+
+.fa-solid.fa-fax::before {
+  content: "\ec6e";
+}
+
+.fa-solid.fa-feather::before {
+  content: "\ec6f";
+}
+
+.fa-solid.fa-feather-pointed::before {
+  content: "\ec70";
+}
+
+.fa-solid.fa-ferry::before {
+  content: "\ec71";
+}
+
+.fa-solid.fa-file-arrow-down::before {
+  content: "\ec72";
+}
+
+.fa-solid.fa-file-arrow-up::before {
+  content: "\ec73";
+}
+
+.fa-solid.fa-file-audio::before {
+  content: "\ec74";
+}
+
+.fa-solid.fa-file-circle-check::before {
+  content: "\ec75";
+}
+
+.fa-solid.fa-file-circle-exclamation::before {
+  content: "\ec76";
+}
+
+.fa-solid.fa-file-circle-minus::before {
+  content: "\ec77";
+}
+
+.fa-solid.fa-file-circle-plus::before {
+  content: "\ec78";
+}
+
+.fa-solid.fa-file-circle-question::before {
+  content: "\ec79";
+}
+
+.fa-solid.fa-file-circle-xmark::before {
+  content: "\ec7a";
+}
+
+.fa-solid.fa-file-code::before {
+  content: "\ec7b";
+}
+
+.fa-solid.fa-file-contract::before {
+  content: "\ec7c";
+}
+
+.fa-solid.fa-file-csv::before {
+  content: "\ec7d";
+}
+
+.fa-solid.fa-file-excel::before {
+  content: "\ec7e";
+}
+
+.fa-solid.fa-file-export::before {
+  content: "\ec7f";
+}
+
+.fa-solid.fa-file-image::before {
+  content: "\ec80";
+}
+
+.fa-solid.fa-file-import::before {
+  content: "\ec81";
+}
+
+.fa-solid.fa-file-invoice::before {
+  content: "\ec82";
+}
+
+.fa-solid.fa-file-invoice-dollar::before {
+  content: "\ec83";
+}
+
+.fa-solid.fa-file-lines::before {
+  content: "\ec84";
+}
+
+.fa-solid.fa-file-medical::before {
+  content: "\ec85";
+}
+
+.fa-solid.fa-file-pdf::before {
+  content: "\ec86";
+}
+
+.fa-solid.fa-file-pen::before {
+  content: "\ec87";
+}
+
+.fa-solid.fa-file-powerpoint::before {
+  content: "\ec88";
+}
+
+.fa-solid.fa-file-prescription::before {
+  content: "\ec89";
+}
+
+.fa-solid.fa-file-shield::before {
+  content: "\ec8a";
+}
+
+.fa-solid.fa-file-signature::before {
+  content: "\ec8b";
+}
+
+.fa-solid.fa-file-video::before {
+  content: "\ec8c";
+}
+
+.fa-solid.fa-file-waveform::before {
+  content: "\ec8d";
+}
+
+.fa-solid.fa-file-word::before {
+  content: "\ec8e";
+}
+
+.fa-solid.fa-file-zipper::before {
+  content: "\ec8f";
+}
+
+.fa-solid.fa-ear-deaf::before {
+  content: "\ec90";
+}
+
+.fa-solid.fa-ear-listen::before {
+  content: "\ec91";
+}
+
+.fa-solid.fa-earth-africa::before {
+  content: "\ec92";
+}
+
+.fa-solid.fa-earth-americas::before {
+  content: "\ec93";
+}
+
+.fa-solid.fa-earth-asia::before {
+  content: "\ec94";
+}
+
+.fa-solid.fa-earth-europe::before {
+  content: "\ec95";
+}
+
+.fa-solid.fa-earth-oceania::before {
+  content: "\ec96";
+}
+
+.fa-solid.fa-egg::before {
+  content: "\ec97";
+}
+
+.fa-solid.fa-eject::before {
+  content: "\ec98";
+}
+
+.fa-solid.fa-elevator::before {
+  content: "\ec99";
+}
+
+.fa-solid.fa-ellipsis::before {
+  content: "\ec9a";
+}
+
+.fa-solid.fa-ellipsis-vertical::before {
+  content: "\ec9b";
+}
+
+.fa-solid.fa-envelope::before {
+  content: "\ec9c";
+}
+
+.fa-solid.fa-envelope-circle-check::before {
+  content: "\ec9d";
+}
+
+.fa-solid.fa-envelope-open::before {
+  content: "\ec9e";
+}
+
+.fa-solid.fa-envelope-open-text::before {
+  content: "\ec9f";
+}
+
+.fa-solid.fa-envelopes-bulk::before {
+  content: "\eca0";
+}
+
+.fa-solid.fa-equals::before {
+  content: "\eca1";
+}
+
+.fa-solid.fa-eraser::before {
+  content: "\eca2";
+}
+
+.fa-solid.fa-ethernet::before {
+  content: "\eca3";
+}
+
+.fa-solid.fa-euro-sign::before {
+  content: "\eca4";
+}
+
+.fa-solid.fa-exclamation::before {
+  content: "\eca5";
+}
+
+.fa-solid.fa-expand::before {
+  content: "\eca6";
+}
+
+.fa-solid.fa-explosion::before {
+  content: "\eca7";
+}
+
+.fa-solid.fa-eye::before {
+  content: "\eca8";
+}
+
+.fa-solid.fa-eye-dropper::before {
+  content: "\eca9";
+}
+
+.fa-solid.fa-eye-low-vision::before {
+  content: "\ecaa";
+}
+
+.fa-solid.fa-eye-slash::before {
+  content: "\ecab";
+}
+
+.fa-solid.fa-f::before {
+  content: "\ecac";
+}
+
+.fa-solid.fa-face-angry::before {
+  content: "\ecad";
+}
+
+.fa-solid.fa-face-dizzy::before {
+  content: "\ecae";
+}
+
+.fa-solid.fa-face-flushed::before {
+  content: "\ecaf";
+}
+
+.fa-solid.fa-face-frown::before {
+  content: "\ecb0";
+}
+
+.fa-solid.fa-face-frown-open::before {
+  content: "\ecb1";
+}
+
+.fa-solid.fa-face-grimace::before {
+  content: "\ecb2";
+}
+
+.fa-solid.fa-face-grin::before {
+  content: "\ecb3";
+}
+
+.fa-solid.fa-face-grin-beam::before {
+  content: "\ecb4";
+}
+
+.fa-solid.fa-face-grin-beam-sweat::before {
+  content: "\ecb5";
+}
+
+.fa-solid.fa-face-grin-hearts::before {
+  content: "\ecb6";
+}
+
+.fa-solid.fa-face-grin-squint::before {
+  content: "\ecb7";
+}
+
+.fa-solid.fa-face-grin-squint-tears::before {
+  content: "\ecb8";
+}
+
+.fa-solid.fa-face-grin-stars::before {
+  content: "\ecb9";
+}
+
+.fa-solid.fa-face-grin-tears::before {
+  content: "\ecba";
+}
+
+.fa-solid.fa-face-grin-tongue::before {
+  content: "\ecbb";
+}
+
+.fa-solid.fa-face-grin-tongue-squint::before {
+  content: "\ecbc";
+}
+
+.fa-solid.fa-face-grin-tongue-wink::before {
+  content: "\ecbd";
+}
+
+.fa-solid.fa-face-grin-wide::before {
+  content: "\ecbe";
+}
+
+.fa-solid.fa-face-grin-wink::before {
+  content: "\ecbf";
+}
+
+.fa-solid.fa-face-kiss::before {
+  content: "\ecc0";
+}
+
+.fa-solid.fa-face-kiss-beam::before {
+  content: "\ecc1";
+}
+
+.fa-solid.fa-face-kiss-wink-heart::before {
+  content: "\ecc2";
+}
+
+.fa-solid.fa-cruzeiro-sign::before {
+  content: "\ecc3";
+}
+
+.fa-solid.fa-cube::before {
+  content: "\ecc4";
+}
+
+.fa-solid.fa-cubes::before {
+  content: "\ecc5";
+}
+
+.fa-solid.fa-cubes-stacked::before {
+  content: "\ecc6";
+}
+
+.fa-solid.fa-d::before {
+  content: "\ecc7";
+}
+
+.fa-solid.fa-database::before {
+  content: "\ecc8";
+}
+
+.fa-solid.fa-delete-left::before {
+  content: "\ecc9";
+}
+
+.fa-solid.fa-democrat::before {
+  content: "\ecca";
+}
+
+.fa-solid.fa-desktop::before {
+  content: "\eccb";
+}
+
+.fa-solid.fa-dharmachakra::before {
+  content: "\eccc";
+}
+
+.fa-solid.fa-diagram-next::before {
+  content: "\eccd";
+}
+
+.fa-solid.fa-diagram-predecessor::before {
+  content: "\ecce";
+}
+
+.fa-solid.fa-diagram-project::before {
+  content: "\eccf";
+}
+
+.fa-solid.fa-diagram-successor::before {
+  content: "\ecd0";
+}
+
+.fa-solid.fa-diamond::before {
+  content: "\ecd1";
+}
+
+.fa-solid.fa-diamond-turn-right::before {
+  content: "\ecd2";
+}
+
+.fa-solid.fa-dice::before {
+  content: "\ecd3";
+}
+
+.fa-solid.fa-dice-d6::before {
+  content: "\ecd4";
+}
+
+.fa-solid.fa-dice-d20::before {
+  content: "\ecd5";
+}
+
+.fa-solid.fa-dice-five::before {
+  content: "\ecd6";
+}
+
+.fa-solid.fa-dice-four::before {
+  content: "\ecd7";
+}
+
+.fa-solid.fa-dice-one::before {
+  content: "\ecd8";
+}
+
+.fa-solid.fa-dice-six::before {
+  content: "\ecd9";
+}
+
+.fa-solid.fa-dice-three::before {
+  content: "\ecda";
+}
+
+.fa-solid.fa-dice-two::before {
+  content: "\ecdb";
+}
+
+.fa-solid.fa-disease::before {
+  content: "\ecdc";
+}
+
+.fa-solid.fa-display::before {
+  content: "\ecdd";
+}
+
+.fa-solid.fa-divide::before {
+  content: "\ecde";
+}
+
+.fa-solid.fa-dna::before {
+  content: "\ecdf";
+}
+
+.fa-solid.fa-dog::before {
+  content: "\ece0";
+}
+
+.fa-solid.fa-dollar-sign::before {
+  content: "\ece1";
+}
+
+.fa-solid.fa-dolly::before {
+  content: "\ece2";
+}
+
+.fa-solid.fa-dong-sign::before {
+  content: "\ece3";
+}
+
+.fa-solid.fa-door-closed::before {
+  content: "\ece4";
+}
+
+.fa-solid.fa-door-open::before {
+  content: "\ece5";
+}
+
+.fa-solid.fa-dove::before {
+  content: "\ece6";
+}
+
+.fa-solid.fa-down-left-and-up-right-to-center::before {
+  content: "\ece7";
+}
+
+.fa-solid.fa-download::before {
+  content: "\ece8";
+}
+
+.fa-solid.fa-down-long::before {
+  content: "\ece9";
+}
+
+.fa-solid.fa-dragon::before {
+  content: "\ecea";
+}
+
+.fa-solid.fa-draw-polygon::before {
+  content: "\eceb";
+}
+
+.fa-solid.fa-droplet::before {
+  content: "\ecec";
+}
+
+.fa-solid.fa-droplet-slash::before {
+  content: "\eced";
+}
+
+.fa-solid.fa-drum::before {
+  content: "\ecee";
+}
+
+.fa-solid.fa-drum-steelpan::before {
+  content: "\ecef";
+}
+
+.fa-solid.fa-drumstick-bite::before {
+  content: "\ecf0";
+}
+
+.fa-solid.fa-dumbbell::before {
+  content: "\ecf1";
+}
+
+.fa-solid.fa-dumpster::before {
+  content: "\ecf2";
+}
+
+.fa-solid.fa-dumpster-fire::before {
+  content: "\ecf3";
+}
+
+.fa-solid.fa-dungeon::before {
+  content: "\ecf4";
+}
+
+.fa-solid.fa-e::before {
+  content: "\ecf5";
+}
+
+.fa-solid.fa-cloud::before {
+  content: "\ecf6";
+}
+
+.fa-solid.fa-cloud-arrow-down::before {
+  content: "\ecf7";
+}
+
+.fa-solid.fa-cloud-arrow-up::before {
+  content: "\ecf8";
+}
+
+.fa-solid.fa-cloud-bolt::before {
+  content: "\ecf9";
+}
+
+.fa-solid.fa-cloud-meatball::before {
+  content: "\ecfa";
+}
+
+.fa-solid.fa-cloud-moon::before {
+  content: "\ecfb";
+}
+
+.fa-solid.fa-cloud-moon-rain::before {
+  content: "\ecfc";
+}
+
+.fa-solid.fa-cloud-rain::before {
+  content: "\ecfd";
+}
+
+.fa-solid.fa-cloud-showers-heavy::before {
+  content: "\ecfe";
+}
+
+.fa-solid.fa-cloud-showers-water::before {
+  content: "\ecff";
+}
+
+.fa-solid.fa-cloud-sun::before {
+  content: "\ed00";
+}
+
+.fa-solid.fa-cloud-sun-rain::before {
+  content: "\ed01";
+}
+
+.fa-solid.fa-clover::before {
+  content: "\ed02";
+}
+
+.fa-solid.fa-code::before {
+  content: "\ed03";
+}
+
+.fa-solid.fa-code-branch::before {
+  content: "\ed04";
+}
+
+.fa-solid.fa-code-commit::before {
+  content: "\ed05";
+}
+
+.fa-solid.fa-code-compare::before {
+  content: "\ed06";
+}
+
+.fa-solid.fa-code-fork::before {
+  content: "\ed07";
+}
+
+.fa-solid.fa-code-merge::before {
+  content: "\ed08";
+}
+
+.fa-solid.fa-code-pull-request::before {
+  content: "\ed09";
+}
+
+.fa-solid.fa-coins::before {
+  content: "\ed0a";
+}
+
+.fa-solid.fa-colon-sign::before {
+  content: "\ed0b";
+}
+
+.fa-solid.fa-comment::before {
+  content: "\ed0c";
+}
+
+.fa-solid.fa-comment-dollar::before {
+  content: "\ed0d";
+}
+
+.fa-solid.fa-comment-dots::before {
+  content: "\ed0e";
+}
+
+.fa-solid.fa-comment-medical::before {
+  content: "\ed0f";
+}
+
+.fa-solid.fa-comments::before {
+  content: "\ed10";
+}
+
+.fa-solid.fa-comments-dollar::before {
+  content: "\ed11";
+}
+
+.fa-solid.fa-comment-slash::before {
+  content: "\ed12";
+}
+
+.fa-solid.fa-comment-sms::before {
+  content: "\ed13";
+}
+
+.fa-solid.fa-compact-disc::before {
+  content: "\ed14";
+}
+
+.fa-solid.fa-compass::before {
+  content: "\ed15";
+}
+
+.fa-solid.fa-compass-drafting::before {
+  content: "\ed16";
+}
+
+.fa-solid.fa-compress::before {
+  content: "\ed17";
+}
+
+.fa-solid.fa-computer::before {
+  content: "\ed18";
+}
+
+.fa-solid.fa-computer-mouse::before {
+  content: "\ed19";
+}
+
+.fa-solid.fa-cookie::before {
+  content: "\ed1a";
+}
+
+.fa-solid.fa-cookie-bite::before {
+  content: "\ed1b";
+}
+
+.fa-solid.fa-copy::before {
+  content: "\ed1c";
+}
+
+.fa-solid.fa-copyright::before {
+  content: "\ed1d";
+}
+
+.fa-solid.fa-couch::before {
+  content: "\ed1e";
+}
+
+.fa-solid.fa-cow::before {
+  content: "\ed1f";
+}
+
+.fa-solid.fa-credit-card::before {
+  content: "\ed20";
+}
+
+.fa-solid.fa-crop::before {
+  content: "\ed21";
+}
+
+.fa-solid.fa-crop-simple::before {
+  content: "\ed22";
+}
+
+.fa-solid.fa-cross::before {
+  content: "\ed23";
+}
+
+.fa-solid.fa-crosshairs::before {
+  content: "\ed24";
+}
+
+.fa-solid.fa-crow::before {
+  content: "\ed25";
+}
+
+.fa-solid.fa-crown::before {
+  content: "\ed26";
+}
+
+.fa-solid.fa-crutch::before {
+  content: "\ed27";
+}
+
+.fa-solid.fa-chevron-left::before {
+  content: "\ed28";
+}
+
+.fa-solid.fa-chevron-right::before {
+  content: "\ed29";
+}
+
+.fa-solid.fa-chevron-up::before {
+  content: "\ed2a";
+}
+
+.fa-solid.fa-child::before {
+  content: "\ed2b";
+}
+
+.fa-solid.fa-child-combatant::before {
+  content: "\ed2c";
+}
+
+.fa-solid.fa-child-dress::before {
+  content: "\ed2d";
+}
+
+.fa-solid.fa-child-reaching::before {
+  content: "\ed2e";
+}
+
+.fa-solid.fa-children::before {
+  content: "\ed2f";
+}
+
+.fa-solid.fa-church::before {
+  content: "\ed30";
+}
+
+.fa-solid.fa-circle::before {
+  content: "\ed31";
+}
+
+.fa-solid.fa-circle-arrow-down::before {
+  content: "\ed32";
+}
+
+.fa-solid.fa-circle-arrow-left::before {
+  content: "\ed33";
+}
+
+.fa-solid.fa-circle-arrow-right::before {
+  content: "\ed34";
+}
+
+.fa-solid.fa-circle-arrow-up::before {
+  content: "\ed35";
+}
+
+.fa-solid.fa-circle-check::before {
+  content: "\ed36";
+}
+
+.fa-solid.fa-circle-chevron-down::before {
+  content: "\ed37";
+}
+
+.fa-solid.fa-circle-chevron-left::before {
+  content: "\ed38";
+}
+
+.fa-solid.fa-circle-chevron-right::before {
+  content: "\ed39";
+}
+
+.fa-solid.fa-circle-chevron-up::before {
+  content: "\ed3a";
+}
+
+.fa-solid.fa-circle-dollar-to-slot::before {
+  content: "\ed3b";
+}
+
+.fa-solid.fa-circle-dot::before {
+  content: "\ed3c";
+}
+
+.fa-solid.fa-circle-down::before {
+  content: "\ed3d";
+}
+
+.fa-solid.fa-circle-exclamation::before {
+  content: "\ed3e";
+}
+
+.fa-solid.fa-circle-h::before {
+  content: "\ed3f";
+}
+
+.fa-solid.fa-circle-half-stroke::before {
+  content: "\ed40";
+}
+
+.fa-solid.fa-circle-info::before {
+  content: "\ed41";
+}
+
+.fa-solid.fa-circle-left::before {
+  content: "\ed42";
+}
+
+.fa-solid.fa-circle-minus::before {
+  content: "\ed43";
+}
+
+.fa-solid.fa-circle-nodes::before {
+  content: "\ed44";
+}
+
+.fa-solid.fa-circle-notch::before {
+  content: "\ed45";
+}
+
+.fa-solid.fa-circle-pause::before {
+  content: "\ed46";
+}
+
+.fa-solid.fa-circle-play::before {
+  content: "\ed47";
+}
+
+.fa-solid.fa-circle-plus::before {
+  content: "\ed48";
+}
+
+.fa-solid.fa-circle-question::before {
+  content: "\ed49";
+}
+
+.fa-solid.fa-circle-radiation::before {
+  content: "\ed4a";
+}
+
+.fa-solid.fa-circle-right::before {
+  content: "\ed4b";
+}
+
+.fa-solid.fa-circle-stop::before {
+  content: "\ed4c";
+}
+
+.fa-solid.fa-circle-up::before {
+  content: "\ed4d";
+}
+
+.fa-solid.fa-circle-user::before {
+  content: "\ed4e";
+}
+
+.fa-solid.fa-circle-xmark::before {
+  content: "\ed4f";
+}
+
+.fa-solid.fa-city::before {
+  content: "\ed50";
+}
+
+.fa-solid.fa-clapperboard::before {
+  content: "\ed51";
+}
+
+.fa-solid.fa-clipboard::before {
+  content: "\ed52";
+}
+
+.fa-solid.fa-clipboard-check::before {
+  content: "\ed53";
+}
+
+.fa-solid.fa-clipboard-list::before {
+  content: "\ed54";
+}
+
+.fa-solid.fa-clipboard-question::before {
+  content: "\ed55";
+}
+
+.fa-solid.fa-clipboard-user::before {
+  content: "\ed56";
+}
+
+.fa-solid.fa-clock::before {
+  content: "\ed57";
+}
+
+.fa-solid.fa-clock-rotate-left::before {
+  content: "\ed58";
+}
+
+.fa-solid.fa-clone::before {
+  content: "\ed59";
+}
+
+.fa-solid.fa-closed-captioning::before {
+  content: "\ed5a";
+}
+
+.fa-solid.fa-campground::before {
+  content: "\ed5b";
+}
+
+.fa-solid.fa-candy-cane::before {
+  content: "\ed5c";
+}
+
+.fa-solid.fa-cannabis::before {
+  content: "\ed5d";
+}
+
+.fa-solid.fa-capsules::before {
+  content: "\ed5e";
+}
+
+.fa-solid.fa-car::before {
+  content: "\ed5f";
+}
+
+.fa-solid.fa-caravan::before {
+  content: "\ed60";
+}
+
+.fa-solid.fa-car-battery::before {
+  content: "\ed61";
+}
+
+.fa-solid.fa-car-burst::before {
+  content: "\ed62";
+}
+
+.fa-solid.fa-caret-down::before {
+  content: "\ed63";
+}
+
+.fa-solid.fa-caret-left::before {
+  content: "\ed64";
+}
+
+.fa-solid.fa-caret-right::before {
+  content: "\ed65";
+}
+
+.fa-solid.fa-caret-up::before {
+  content: "\ed66";
+}
+
+.fa-solid.fa-car-on::before {
+  content: "\ed67";
+}
+
+.fa-solid.fa-car-rear::before {
+  content: "\ed68";
+}
+
+.fa-solid.fa-carrot::before {
+  content: "\ed69";
+}
+
+.fa-solid.fa-car-side::before {
+  content: "\ed6a";
+}
+
+.fa-solid.fa-cart-arrow-down::before {
+  content: "\ed6b";
+}
+
+.fa-solid.fa-cart-flatbed::before {
+  content: "\ed6c";
+}
+
+.fa-solid.fa-cart-flatbed-suitcase::before {
+  content: "\ed6d";
+}
+
+.fa-solid.fa-cart-plus::before {
+  content: "\ed6e";
+}
+
+.fa-solid.fa-cart-shopping::before {
+  content: "\ed6f";
+}
+
+.fa-solid.fa-car-tunnel::before {
+  content: "\ed70";
+}
+
+.fa-solid.fa-cash-register::before {
+  content: "\ed71";
+}
+
+.fa-solid.fa-cat::before {
+  content: "\ed72";
+}
+
+.fa-solid.fa-cedi-sign::before {
+  content: "\ed73";
+}
+
+.fa-solid.fa-cent-sign::before {
+  content: "\ed74";
+}
+
+.fa-solid.fa-certificate::before {
+  content: "\ed75";
+}
+
+.fa-solid.fa-chair::before {
+  content: "\ed76";
+}
+
+.fa-solid.fa-chalkboard::before {
+  content: "\ed77";
+}
+
+.fa-solid.fa-chalkboard-user::before {
+  content: "\ed78";
+}
+
+.fa-solid.fa-champagne-glasses::before {
+  content: "\ed79";
+}
+
+.fa-solid.fa-charging-station::before {
+  content: "\ed7a";
+}
+
+.fa-solid.fa-chart-area::before {
+  content: "\ed7b";
+}
+
+.fa-solid.fa-chart-bar::before {
+  content: "\ed7c";
+}
+
+.fa-solid.fa-chart-column::before {
+  content: "\ed7d";
+}
+
+.fa-solid.fa-chart-gantt::before {
+  content: "\ed7e";
+}
+
+.fa-solid.fa-chart-line::before {
+  content: "\ed7f";
+}
+
+.fa-solid.fa-chart-pie::before {
+  content: "\ed80";
+}
+
+.fa-solid.fa-chart-simple::before {
+  content: "\ed81";
+}
+
+.fa-solid.fa-check::before {
+  content: "\ed82";
+}
+
+.fa-solid.fa-check-double::before {
+  content: "\ed83";
+}
+
+.fa-solid.fa-check-to-slot::before {
+  content: "\ed84";
+}
+
+.fa-solid.fa-cheese::before {
+  content: "\ed85";
+}
+
+.fa-solid.fa-chess::before {
+  content: "\ed86";
+}
+
+.fa-solid.fa-chess-bishop::before {
+  content: "\ed87";
+}
+
+.fa-solid.fa-chess-board::before {
+  content: "\ed88";
+}
+
+.fa-solid.fa-chess-king::before {
+  content: "\ed89";
+}
+
+.fa-solid.fa-chess-knight::before {
+  content: "\ed8a";
+}
+
+.fa-solid.fa-chess-pawn::before {
+  content: "\ed8b";
+}
+
+.fa-solid.fa-chess-queen::before {
+  content: "\ed8c";
+}
+
+.fa-solid.fa-chess-rook::before {
+  content: "\ed8d";
+}
+
+.fa-solid.fa-chevron-down::before {
+  content: "\ed8e";
+}
+
+.fa-solid.fa-bridge::before {
+  content: "\ed8f";
+}
+
+.fa-solid.fa-bridge-circle-check::before {
+  content: "\ed90";
+}
+
+.fa-solid.fa-bridge-circle-exclamation::before {
+  content: "\ed91";
+}
+
+.fa-solid.fa-bridge-circle-xmark::before {
+  content: "\ed92";
+}
+
+.fa-solid.fa-bridge-lock::before {
+  content: "\ed93";
+}
+
+.fa-solid.fa-bridge-water::before {
+  content: "\ed94";
+}
+
+.fa-solid.fa-briefcase::before {
+  content: "\ed95";
+}
+
+.fa-solid.fa-briefcase-medical::before {
+  content: "\ed96";
+}
+
+.fa-solid.fa-broom::before {
+  content: "\ed97";
+}
+
+.fa-solid.fa-broom-ball::before {
+  content: "\ed98";
+}
+
+.fa-solid.fa-brush::before {
+  content: "\ed99";
+}
+
+.fa-solid.fa-bucket::before {
+  content: "\ed9a";
+}
+
+.fa-solid.fa-bug::before {
+  content: "\ed9b";
+}
+
+.fa-solid.fa-bugs::before {
+  content: "\ed9c";
+}
+
+.fa-solid.fa-bug-slash::before {
+  content: "\ed9d";
+}
+
+.fa-solid.fa-building::before {
+  content: "\ed9e";
+}
+
+.fa-solid.fa-building-circle-arrow-right::before {
+  content: "\ed9f";
+}
+
+.fa-solid.fa-building-circle-check::before {
+  content: "\eda0";
+}
+
+.fa-solid.fa-building-circle-exclamation::before {
+  content: "\eda1";
+}
+
+.fa-solid.fa-building-circle-xmark::before {
+  content: "\eda2";
+}
+
+.fa-solid.fa-building-columns::before {
+  content: "\eda3";
+}
+
+.fa-solid.fa-building-flag::before {
+  content: "\eda4";
+}
+
+.fa-solid.fa-building-lock::before {
+  content: "\eda5";
+}
+
+.fa-solid.fa-building-ngo::before {
+  content: "\eda6";
+}
+
+.fa-solid.fa-building-shield::before {
+  content: "\eda7";
+}
+
+.fa-solid.fa-building-un::before {
+  content: "\eda8";
+}
+
+.fa-solid.fa-building-user::before {
+  content: "\eda9";
+}
+
+.fa-solid.fa-building-wheat::before {
+  content: "\edaa";
+}
+
+.fa-solid.fa-bullhorn::before {
+  content: "\edab";
+}
+
+.fa-solid.fa-bullseye::before {
+  content: "\edac";
+}
+
+.fa-solid.fa-burger::before {
+  content: "\edad";
+}
+
+.fa-solid.fa-burst::before {
+  content: "\edae";
+}
+
+.fa-solid.fa-bus::before {
+  content: "\edaf";
+}
+
+.fa-solid.fa-business-time::before {
+  content: "\edb0";
+}
+
+.fa-solid.fa-bus-simple::before {
+  content: "\edb1";
+}
+
+.fa-solid.fa-c::before {
+  content: "\edb2";
+}
+
+.fa-solid.fa-cable-car::before {
+  content: "\edb3";
+}
+
+.fa-solid.fa-cake-candles::before {
+  content: "\edb4";
+}
+
+.fa-solid.fa-calculator::before {
+  content: "\edb5";
+}
+
+.fa-solid.fa-calendar::before {
+  content: "\edb6";
+}
+
+.fa-solid.fa-calendar-check::before {
+  content: "\edb7";
+}
+
+.fa-solid.fa-calendar-day::before {
+  content: "\edb8";
+}
+
+.fa-solid.fa-calendar-days::before {
+  content: "\edb9";
+}
+
+.fa-solid.fa-calendar-minus::before {
+  content: "\edba";
+}
+
+.fa-solid.fa-calendar-plus::before {
+  content: "\edbb";
+}
+
+.fa-solid.fa-calendar-week::before {
+  content: "\edbc";
+}
+
+.fa-solid.fa-calendar-xmark::before {
+  content: "\edbd";
+}
+
+.fa-solid.fa-camera::before {
+  content: "\edbe";
+}
+
+.fa-solid.fa-camera-retro::before {
+  content: "\edbf";
+}
+
+.fa-solid.fa-camera-rotate::before {
+  content: "\edc0";
+}
+
+.fa-solid.fa-bed::before {
+  content: "\edc1";
+}
+
+.fa-solid.fa-bed-pulse::before {
+  content: "\edc2";
+}
+
+.fa-solid.fa-beer-mug-empty::before {
+  content: "\edc3";
+}
+
+.fa-solid.fa-bell::before {
+  content: "\edc4";
+}
+
+.fa-solid.fa-bell-concierge::before {
+  content: "\edc5";
+}
+
+.fa-solid.fa-bell-slash::before {
+  content: "\edc6";
+}
+
+.fa-solid.fa-bezier-curve::before {
+  content: "\edc7";
+}
+
+.fa-solid.fa-bicycle::before {
+  content: "\edc8";
+}
+
+.fa-solid.fa-binoculars::before {
+  content: "\edc9";
+}
+
+.fa-solid.fa-biohazard::before {
+  content: "\edca";
+}
+
+.fa-solid.fa-bitcoin-sign::before {
+  content: "\edcb";
+}
+
+.fa-solid.fa-blender::before {
+  content: "\edcc";
+}
+
+.fa-solid.fa-blender-phone::before {
+  content: "\edcd";
+}
+
+.fa-solid.fa-blog::before {
+  content: "\edce";
+}
+
+.fa-solid.fa-bold::before {
+  content: "\edcf";
+}
+
+.fa-solid.fa-bolt::before {
+  content: "\edd0";
+}
+
+.fa-solid.fa-bolt-lightning::before {
+  content: "\edd1";
+}
+
+.fa-solid.fa-bomb::before {
+  content: "\edd2";
+}
+
+.fa-solid.fa-bone::before {
+  content: "\edd3";
+}
+
+.fa-solid.fa-bong::before {
+  content: "\edd4";
+}
+
+.fa-solid.fa-book::before {
+  content: "\edd5";
+}
+
+.fa-solid.fa-book-atlas::before {
+  content: "\edd6";
+}
+
+.fa-solid.fa-book-bible::before {
+  content: "\edd7";
+}
+
+.fa-solid.fa-book-bookmark::before {
+  content: "\edd8";
+}
+
+.fa-solid.fa-book-journal-whills::before {
+  content: "\edd9";
+}
+
+.fa-solid.fa-bookmark::before {
+  content: "\edda";
+}
+
+.fa-solid.fa-book-medical::before {
+  content: "\eddb";
+}
+
+.fa-solid.fa-book-open::before {
+  content: "\eddc";
+}
+
+.fa-solid.fa-book-open-reader::before {
+  content: "\eddd";
+}
+
+.fa-solid.fa-book-quran::before {
+  content: "\edde";
+}
+
+.fa-solid.fa-book-skull::before {
+  content: "\eddf";
+}
+
+.fa-solid.fa-book-tanakh::before {
+  content: "\ede0";
+}
+
+.fa-solid.fa-border-all::before {
+  content: "\ede1";
+}
+
+.fa-solid.fa-border-none::before {
+  content: "\ede2";
+}
+
+.fa-solid.fa-border-top-left::before {
+  content: "\ede3";
+}
+
+.fa-solid.fa-bore-hole::before {
+  content: "\ede4";
+}
+
+.fa-solid.fa-bottle-droplet::before {
+  content: "\ede5";
+}
+
+.fa-solid.fa-bottle-water::before {
+  content: "\ede6";
+}
+
+.fa-solid.fa-bowl-food::before {
+  content: "\ede7";
+}
+
+.fa-solid.fa-bowling-ball::before {
+  content: "\ede8";
+}
+
+.fa-solid.fa-bowl-rice::before {
+  content: "\ede9";
+}
+
+.fa-solid.fa-box::before {
+  content: "\edea";
+}
+
+.fa-solid.fa-box-archive::before {
+  content: "\edeb";
+}
+
+.fa-solid.fa-boxes-packing::before {
+  content: "\edec";
+}
+
+.fa-solid.fa-boxes-stacked::before {
+  content: "\eded";
+}
+
+.fa-solid.fa-box-open::before {
+  content: "\edee";
+}
+
+.fa-solid.fa-box-tissue::before {
+  content: "\edef";
+}
+
+.fa-solid.fa-braille::before {
+  content: "\edf0";
+}
+
+.fa-solid.fa-brain::before {
+  content: "\edf1";
+}
+
+.fa-solid.fa-brazilian-real-sign::before {
+  content: "\edf2";
+}
+
+.fa-solid.fa-bread-slice::before {
+  content: "\edf3";
+}
+
+.fa-solid.fa-arrows-down-to-line::before {
+  content: "\edf4";
+}
+
+.fa-solid.fa-arrows-down-to-people::before {
+  content: "\edf5";
+}
+
+.fa-solid.fa-arrows-left-right::before {
+  content: "\edf6";
+}
+
+.fa-solid.fa-arrows-left-right-to-line::before {
+  content: "\edf7";
+}
+
+.fa-solid.fa-arrows-rotate::before {
+  content: "\edf8";
+}
+
+.fa-solid.fa-arrows-spin::before {
+  content: "\edf9";
+}
+
+.fa-solid.fa-arrows-split-up-and-left::before {
+  content: "\edfa";
+}
+
+.fa-solid.fa-arrows-to-circle::before {
+  content: "\edfb";
+}
+
+.fa-solid.fa-arrows-to-dot::before {
+  content: "\edfc";
+}
+
+.fa-solid.fa-arrows-to-eye::before {
+  content: "\edfd";
+}
+
+.fa-solid.fa-arrows-turn-right::before {
+  content: "\edfe";
+}
+
+.fa-solid.fa-arrows-turn-to-dots::before {
+  content: "\edff";
+}
+
+.fa-solid.fa-arrows-up-down::before {
+  content: "\ee00";
+}
+
+.fa-solid.fa-arrows-up-down-left-right::before {
+  content: "\ee01";
+}
+
+.fa-solid.fa-arrows-up-to-line::before {
+  content: "\ee02";
+}
+
+.fa-solid.fa-asterisk::before {
+  content: "\ee03";
+}
+
+.fa-solid.fa-at::before {
+  content: "\ee04";
+}
+
+.fa-solid.fa-atom::before {
+  content: "\ee05";
+}
+
+.fa-solid.fa-audio-description::before {
+  content: "\ee06";
+}
+
+.fa-solid.fa-austral-sign::before {
+  content: "\ee07";
+}
+
+.fa-solid.fa-award::before {
+  content: "\ee08";
+}
+
+.fa-solid.fa-b::before {
+  content: "\ee09";
+}
+
+.fa-solid.fa-baby::before {
+  content: "\ee0a";
+}
+
+.fa-solid.fa-baby-carriage::before {
+  content: "\ee0b";
+}
+
+.fa-solid.fa-backward::before {
+  content: "\ee0c";
+}
+
+.fa-solid.fa-backward-fast::before {
+  content: "\ee0d";
+}
+
+.fa-solid.fa-backward-step::before {
+  content: "\ee0e";
+}
+
+.fa-solid.fa-bacon::before {
+  content: "\ee0f";
+}
+
+.fa-solid.fa-bacteria::before {
+  content: "\ee10";
+}
+
+.fa-solid.fa-bacterium::before {
+  content: "\ee11";
+}
+
+.fa-solid.fa-bag-shopping::before {
+  content: "\ee12";
+}
+
+.fa-solid.fa-bahai::before {
+  content: "\ee13";
+}
+
+.fa-solid.fa-baht-sign::before {
+  content: "\ee14";
+}
+
+.fa-solid.fa-ban::before {
+  content: "\ee15";
+}
+
+.fa-solid.fa-bandage::before {
+  content: "\ee16";
+}
+
+.fa-solid.fa-bangladeshi-taka-sign::before {
+  content: "\ee17";
+}
+
+.fa-solid.fa-ban-smoking::before {
+  content: "\ee18";
+}
+
+.fa-solid.fa-barcode::before {
+  content: "\ee19";
+}
+
+.fa-solid.fa-bars::before {
+  content: "\ee1a";
+}
+
+.fa-solid.fa-bars-progress::before {
+  content: "\ee1b";
+}
+
+.fa-solid.fa-bars-staggered::before {
+  content: "\ee1c";
+}
+
+.fa-solid.fa-baseball::before {
+  content: "\ee1d";
+}
+
+.fa-solid.fa-baseball-bat-ball::before {
+  content: "\ee1e";
+}
+
+.fa-solid.fa-basketball::before {
+  content: "\ee1f";
+}
+
+.fa-solid.fa-basket-shopping::before {
+  content: "\ee20";
+}
+
+.fa-solid.fa-bath::before {
+  content: "\ee21";
+}
+
+.fa-solid.fa-battery-empty::before {
+  content: "\ee22";
+}
+
+.fa-solid.fa-battery-full::before {
+  content: "\ee23";
+}
+
+.fa-solid.fa-battery-half::before {
+  content: "\ee24";
+}
+
+.fa-solid.fa-battery-quarter::before {
+  content: "\ee25";
+}
+
+.fa-solid.fa-battery-three-quarters::before {
+  content: "\ee26";
+}
+
+.fa-solid.fa-anchor::before {
+  content: "\ee27";
+}
+
+.fa-solid.fa-angle-down::before {
+  content: "\ee28";
+}
+
+.fa-solid.fa-angle-left::before {
+  content: "\ee29";
+}
+
+.fa-solid.fa-angle-right::before {
+  content: "\ee2a";
+}
+
+.fa-solid.fa-angles-down::before {
+  content: "\ee2b";
+}
+
+.fa-solid.fa-angles-left::before {
+  content: "\ee2c";
+}
+
+.fa-solid.fa-angles-right::before {
+  content: "\ee2d";
+}
+
+.fa-solid.fa-angles-up::before {
+  content: "\ee2e";
+}
+
+.fa-solid.fa-angle-up::before {
+  content: "\ee2f";
+}
+
+.fa-solid.fa-ankh::before {
+  content: "\ee30";
+}
+
+.fa-solid.fa-apple-whole::before {
+  content: "\ee31";
+}
+
+.fa-solid.fa-archway::before {
+  content: "\ee32";
+}
+
+.fa-solid.fa-arrow-down::before {
+  content: "\ee33";
+}
+
+.fa-solid.fa-arrow-down-1-9::before {
+  content: "\ee34";
+}
+
+.fa-solid.fa-arrow-down-9-1::before {
+  content: "\ee35";
+}
+
+.fa-solid.fa-arrow-down-a-z::before {
+  content: "\ee36";
+}
+
+.fa-solid.fa-arrow-down-long::before {
+  content: "\ee37";
+}
+
+.fa-solid.fa-arrow-down-short-wide::before {
+  content: "\ee38";
+}
+
+.fa-solid.fa-arrow-down-up-across-line::before {
+  content: "\ee39";
+}
+
+.fa-solid.fa-arrow-down-up-lock::before {
+  content: "\ee3a";
+}
+
+.fa-solid.fa-arrow-down-wide-short::before {
+  content: "\ee3b";
+}
+
+.fa-solid.fa-arrow-down-z-a::before {
+  content: "\ee3c";
+}
+
+.fa-solid.fa-arrow-left::before {
+  content: "\ee3d";
+}
+
+.fa-solid.fa-arrow-left-long::before {
+  content: "\ee3e";
+}
+
+.fa-solid.fa-arrow-pointer::before {
+  content: "\ee3f";
+}
+
+.fa-solid.fa-arrow-right::before {
+  content: "\ee40";
+}
+
+.fa-solid.fa-arrow-right-arrow-left::before {
+  content: "\ee41";
+}
+
+.fa-solid.fa-arrow-right-from-bracket::before {
+  content: "\ee42";
+}
+
+.fa-solid.fa-arrow-right-long::before {
+  content: "\ee43";
+}
+
+.fa-solid.fa-arrow-right-to-bracket::before {
+  content: "\ee44";
+}
+
+.fa-solid.fa-arrow-right-to-city::before {
+  content: "\ee45";
+}
+
+.fa-solid.fa-arrow-rotate-left::before {
+  content: "\ee46";
+}
+
+.fa-solid.fa-arrow-rotate-right::before {
+  content: "\ee47";
+}
+
+.fa-solid.fa-arrow-trend-down::before {
+  content: "\ee48";
+}
+
+.fa-solid.fa-arrow-trend-up::before {
+  content: "\ee49";
+}
+
+.fa-solid.fa-arrow-turn-down::before {
+  content: "\ee4a";
+}
+
+.fa-solid.fa-arrow-turn-up::before {
+  content: "\ee4b";
+}
+
+.fa-solid.fa-arrow-up::before {
+  content: "\ee4c";
+}
+
+.fa-solid.fa-arrow-up-1-9::before {
+  content: "\ee4d";
+}
+
+.fa-solid.fa-arrow-up-9-1::before {
+  content: "\ee4e";
+}
+
+.fa-solid.fa-arrow-up-a-z::before {
+  content: "\ee4f";
+}
+
+.fa-solid.fa-arrow-up-from-bracket::before {
+  content: "\ee50";
+}
+
+.fa-solid.fa-arrow-up-from-ground-water::before {
+  content: "\ee51";
+}
+
+.fa-solid.fa-arrow-up-from-water-pump::before {
+  content: "\ee52";
+}
+
+.fa-solid.fa-arrow-up-long::before {
+  content: "\ee53";
+}
+
+.fa-solid.fa-arrow-up-right-dots::before {
+  content: "\ee54";
+}
+
+.fa-solid.fa-arrow-up-right-from-square::before {
+  content: "\ee55";
+}
+
+.fa-solid.fa-arrow-up-short-wide::before {
+  content: "\ee56";
+}
+
+.fa-solid.fa-arrow-up-wide-short::before {
+  content: "\ee57";
+}
+
+.fa-solid.fa-arrow-up-z-a::before {
+  content: "\ee58";
+}
+
+.fa-solid.fa-ee59::before {
+  content: "\ee59";
+}
+
+.fa-solid.fa-ee5a::before {
+  content: "\ee5a";
+}
+
+.fa-solid.fa-ee5b::before {
+  content: "\ee5b";
+}
+
+.fa-solid.fa-ee5c::before {
+  content: "\ee5c";
+}
+
+.fa-solid.fa-ee5d::before {
+  content: "\ee5d";
+}
+
+.fa-solid.fa-ee5e::before {
+  content: "\ee5e";
+}
+
+.fa-solid.fa-ee5f::before {
+  content: "\ee5f";
+}
+
+.fa-solid.fa-ee60::before {
+  content: "\ee60";
+}
+
+.fa-solid.fa-ee61::before {
+  content: "\ee61";
+}
+
+.fa-solid.fa-ee62::before {
+  content: "\ee62";
+}
+
+.fa-solid.fa-a::before {
+  content: "\ee63";
+}
+
+.fa-solid.fa-address-book::before {
+  content: "\ee64";
+}
+
+.fa-solid.fa-address-card::before {
+  content: "\ee65";
+}
+
+.fa-solid.fa-align-center::before {
+  content: "\ee66";
+}
+
+.fa-solid.fa-align-justify::before {
+  content: "\ee67";
+}
+
+.fa-solid.fa-align-left::before {
+  content: "\ee68";
+}
+
+.fa-solid.fa-align-right::before {
+  content: "\ee69";
+}
+
+.fa-solid.fa-anchor-circle-check::before {
+  content: "\ee6a";
+}
+
+.fa-solid.fa-anchor-circle-exclamation::before {
+  content: "\ee6b";
+}
+
+.fa-solid.fa-anchor-circle-xmark::before {
+  content: "\ee6c";
+}
+
+.fa-solid.fa-anchor-lock::before {
+  content: "\ee6d";
+}
+
+@font-face {
+  font-family: "FontAwesomeIcons$FontAwesome_Regular";
+  src: url("./fonts/FontAwesomeIcons$FontAwesome_Regular.ttf") format("truetype");
+}
+.FontAwesomeIcons_FontAwesome_Regular {
+  display: inline-block;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  font-family: "FontAwesomeIcons$FontAwesome_Regular";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-object-group::before {
+  content: "\e900";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-object-ungroup::before {
+  content: "\e901";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-paper-plane::before {
+  content: "\e902";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-paste::before {
+  content: "\e903";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-pen-to-square::before {
+  content: "\e904";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-rectangle-list::before {
+  content: "\e905";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-rectangle-xmark::before {
+  content: "\e906";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-registered::before {
+  content: "\e907";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-share-from-square::before {
+  content: "\e908";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-snowflake::before {
+  content: "\e909";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-square::before {
+  content: "\e90a";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-square-caret-down::before {
+  content: "\e90b";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-square-caret-left::before {
+  content: "\e90c";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-square-caret-right::before {
+  content: "\e90d";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-square-caret-up::before {
+  content: "\e90e";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-square-check::before {
+  content: "\e90f";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-square-full::before {
+  content: "\e910";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-square-minus::before {
+  content: "\e911";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-square-plus::before {
+  content: "\e912";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-star::before {
+  content: "\e913";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-star-half::before {
+  content: "\e914";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-star-half-stroke::before {
+  content: "\e915";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-sun::before {
+  content: "\e916";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-thumbs-down::before {
+  content: "\e917";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-thumbs-up::before {
+  content: "\e918";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-trash-can::before {
+  content: "\e919";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-user::before {
+  content: "\e91a";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-window-maximize::before {
+  content: "\e91b";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-window-minimize::before {
+  content: "\e91c";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-window-restore::before {
+  content: "\e91d";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-tired::before {
+  content: "\e91e";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-file::before {
+  content: "\e91f";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-file-audio::before {
+  content: "\e920";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-file-code::before {
+  content: "\e921";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-file-excel::before {
+  content: "\e922";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-file-image::before {
+  content: "\e923";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-file-lines::before {
+  content: "\e924";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-file-pdf::before {
+  content: "\e925";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-file-powerpoint::before {
+  content: "\e926";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-file-video::before {
+  content: "\e927";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-file-word::before {
+  content: "\e928";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-file-zipper::before {
+  content: "\e929";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-flag::before {
+  content: "\e92a";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-floppy-disk::before {
+  content: "\e92b";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-folder::before {
+  content: "\e92c";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-folder-closed::before {
+  content: "\e92d";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-folder-open::before {
+  content: "\e92e";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-font-awesome::before {
+  content: "\e92f";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-futbol::before {
+  content: "\e930";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-gem::before {
+  content: "\e931";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-hand::before {
+  content: "\e932";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-hand-back-fist::before {
+  content: "\e933";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-hand-lizard::before {
+  content: "\e934";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-hand-peace::before {
+  content: "\e935";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-hand-point-down::before {
+  content: "\e936";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-hand-pointer::before {
+  content: "\e937";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-hand-point-left::before {
+  content: "\e938";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-hand-point-right::before {
+  content: "\e939";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-hand-point-up::before {
+  content: "\e93a";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-hand-scissors::before {
+  content: "\e93b";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-handshake::before {
+  content: "\e93c";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-hand-spock::before {
+  content: "\e93d";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-hard-drive::before {
+  content: "\e93e";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-heart::before {
+  content: "\e93f";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-hospital::before {
+  content: "\e940";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-hourglass::before {
+  content: "\e941";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-hourglass-half::before {
+  content: "\e942";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-id-badge::before {
+  content: "\e943";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-id-card::before {
+  content: "\e944";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-image::before {
+  content: "\e945";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-images::before {
+  content: "\e946";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-keyboard::before {
+  content: "\e947";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-lemon::before {
+  content: "\e948";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-life-ring::before {
+  content: "\e949";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-lightbulb::before {
+  content: "\e94a";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-map::before {
+  content: "\e94b";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-message::before {
+  content: "\e94c";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-money-bill-1::before {
+  content: "\e94d";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-moon::before {
+  content: "\e94e";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-newspaper::before {
+  content: "\e94f";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-note-sticky::before {
+  content: "\e950";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-circle::before {
+  content: "\e951";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-clipboard::before {
+  content: "\e952";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-clock::before {
+  content: "\e953";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-clone::before {
+  content: "\e954";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-closed-captioning::before {
+  content: "\e955";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-comment::before {
+  content: "\e956";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-comment-dots::before {
+  content: "\e957";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-comments::before {
+  content: "\e958";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-compass::before {
+  content: "\e959";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-copy::before {
+  content: "\e95a";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-copyright::before {
+  content: "\e95b";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-credit-card::before {
+  content: "\e95c";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-envelope::before {
+  content: "\e95d";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-envelope-open::before {
+  content: "\e95e";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-eye::before {
+  content: "\e95f";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-eye-slash::before {
+  content: "\e960";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-angry::before {
+  content: "\e961";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-dizzy::before {
+  content: "\e962";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-flushed::before {
+  content: "\e963";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-frown::before {
+  content: "\e964";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-frown-open::before {
+  content: "\e965";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-grimace::before {
+  content: "\e966";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-grin::before {
+  content: "\e967";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-grin-beam::before {
+  content: "\e968";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-grin-beam-sweat::before {
+  content: "\e969";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-grin-hearts::before {
+  content: "\e96a";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-grin-squint::before {
+  content: "\e96b";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-grin-squint-tears::before {
+  content: "\e96c";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-grin-stars::before {
+  content: "\e96d";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-grin-tears::before {
+  content: "\e96e";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-grin-tongue::before {
+  content: "\e96f";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-grin-tongue-squint::before {
+  content: "\e970";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-grin-tongue-wink::before {
+  content: "\e971";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-grin-wide::before {
+  content: "\e972";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-grin-wink::before {
+  content: "\e973";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-kiss::before {
+  content: "\e974";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-kiss-beam::before {
+  content: "\e975";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-kiss-wink-heart::before {
+  content: "\e976";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-laugh::before {
+  content: "\e977";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-laugh-beam::before {
+  content: "\e978";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-laugh-squint::before {
+  content: "\e979";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-laugh-wink::before {
+  content: "\e97a";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-meh::before {
+  content: "\e97b";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-meh-blank::before {
+  content: "\e97c";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-rolling-eyes::before {
+  content: "\e97d";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-sad-cry::before {
+  content: "\e97e";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-sad-tear::before {
+  content: "\e97f";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-smile::before {
+  content: "\e980";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-smile-beam::before {
+  content: "\e981";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-smile-wink::before {
+  content: "\e982";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-face-surprise::before {
+  content: "\e983";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-address-book::before {
+  content: "\e984";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-address-card::before {
+  content: "\e985";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-bell::before {
+  content: "\e986";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-bell-slash::before {
+  content: "\e987";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-bookmark::before {
+  content: "\e988";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-building::before {
+  content: "\e989";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-calendar::before {
+  content: "\e98a";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-calendar-check::before {
+  content: "\e98b";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-calendar-days::before {
+  content: "\e98c";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-calendar-minus::before {
+  content: "\e98d";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-calendar-plus::before {
+  content: "\e98e";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-calendar-xmark::before {
+  content: "\e98f";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-chart-bar::before {
+  content: "\e990";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-chess-bishop::before {
+  content: "\e991";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-chess-king::before {
+  content: "\e992";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-chess-knight::before {
+  content: "\e993";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-chess-pawn::before {
+  content: "\e994";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-chess-queen::before {
+  content: "\e995";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-chess-rook::before {
+  content: "\e996";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-circle-check::before {
+  content: "\e997";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-circle-dot::before {
+  content: "\e998";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-circle-down::before {
+  content: "\e999";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-circle-left::before {
+  content: "\e99a";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-circle-pause::before {
+  content: "\e99b";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-circle-play::before {
+  content: "\e99c";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-circle-question::before {
+  content: "\e99d";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-circle-right::before {
+  content: "\e99e";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-circle-stop::before {
+  content: "\e99f";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-circle-up::before {
+  content: "\e9a0";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-circle-user::before {
+  content: "\e9a1";
+}
+
+.FontAwesomeIcons_FontAwesome_Regular.FontAwesomeIcons_FontAwesome_Regular-circle-xmark::before {
+  content: "\e9a2";
+}
+
 /* ==========================================================================
   Take picture styles
 ========================================================================== */

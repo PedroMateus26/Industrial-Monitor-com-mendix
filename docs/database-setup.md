@@ -1,19 +1,9 @@
-🗄️ Configuração do Banco de Dados
-
-Este projeto utiliza PostgreSQL como banco de dados para armazenar leituras de máquinas e alertas.
-
-📌 Pré-requisitos
-PostgreSQL instalado
-Acesso ao terminal (psql) ou pgAdmin
 🧱 1. Criar o banco de dados
-
-Execute o comando abaixo:
 CREATE DATABASE industrial_monitor;
 
-Depois conecte ao banco:
-\c industrial_monitor
-ou selecione o banco pela própria ferramenta do pgadmin
+Conectar ao banco:
 
+\c industrial_monitor
 📊 2. Criar tabela de leituras
 CREATE TABLE machine_reading (
     id BIGSERIAL PRIMARY KEY,
@@ -23,14 +13,12 @@ CREATE TABLE machine_reading (
     efficiency_pct NUMERIC(5,2) NOT NULL,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
-
 🔎 Descrição
 machine_id: identificador da máquina
-reading_time: momento da leitura
+reading_time: momento da leitura (armazenado em UTC)
 temperature_c: temperatura em graus Celsius
 efficiency_pct: eficiência calculada
 created_at: data de inserção no banco
-
 🚨 3. Criar tabela de alertas
 CREATE TABLE machine_alert (
     id BIGSERIAL PRIMARY KEY,
@@ -41,16 +29,14 @@ CREATE TABLE machine_alert (
     message VARCHAR(255) NOT NULL,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
-
 🔗 4. Criar relacionamento (Foreign Key)
 ALTER TABLE machine_alert
 ADD CONSTRAINT fk_machine_alert_reading
 FOREIGN KEY (reading_id) REFERENCES machine_reading(id);
-
-🔎 O que isso faz
-Garante que todo alerta esteja associado a uma leitura válida da tabela machine_reading.
-
-🧪 5. Teste de inserção
+🔎 O que isso garante
+Integridade referencial
+Um alerta sempre está vinculado a uma leitura válida
+🧪 5. Testes de inserção
 Inserir leitura
 INSERT INTO machine_reading (
     machine_id,
@@ -59,11 +45,10 @@ INSERT INTO machine_reading (
     efficiency_pct
 ) VALUES (
     'MACHINE_01',
-    NOW(),
+    CURRENT_TIMESTAMP,
     25.00,
     51.00
 );
-
 Inserir alerta
 INSERT INTO machine_alert (
     machine_id,
@@ -78,15 +63,12 @@ INSERT INTO machine_alert (
     'HIGH',
     'Eficiência abaixo do esperado'
 );
-
-🔍 6. Consultar dados
-Leituras
+🔍 6. Consultas úteis
+Todas as leituras
 SELECT * FROM machine_reading;
-
-Alertas
+Todos os alertas
 SELECT * FROM machine_alert;
-
-Relacionamento entre tabelas
+Join entre leituras e alertas
 SELECT 
     r.id,
     r.temperature_c,
@@ -94,9 +76,16 @@ SELECT
     a.alert_type,
     a.severity
 FROM machine_reading r
-LEFT JOIN machine_alert a ON a.reading_id = r.id;
-
-⚠️ Observações
-O banco não permite criar alertas com reading_id inexistente
-Isso garante integridade dos dados
-Utilize NOW() para timestamps atuais
+LEFT JOIN machine_alert a 
+    ON a.reading_id = r.id;
+⚠️ Observações importantes
+Os timestamps são armazenados em UTC
+A conversão para horário local é feita na aplicação (Mendix)
+Não é possível inserir alertas com reading_id inexistente
+Utilize CURRENT_TIMESTAMP para registros atuais
+🧠 Boas práticas aplicadas
+Uso de BIGSERIAL para escalabilidade
+Separação entre leituras e alertas
+Integridade referencial com Foreign Key
+Armazenamento em UTC
+Estrutura preparada para expansão futura
